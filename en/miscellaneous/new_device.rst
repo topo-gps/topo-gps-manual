@@ -1,7 +1,7 @@
 New device
 ==========
 
-If you have obtained a new device, you can install Topo GPS for from the AppStore and or Google Play store. Below we discuss the various possibilities.
+If you have obtained a new device, you can install Topo GPS for free from the AppStore or the Google Play store. Below we discuss the various possibilities.
 
 Apple -> Apple
 --------------
