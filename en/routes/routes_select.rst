@@ -3,8 +3,7 @@
 Selecting routes
 ================
 
-In the 'Routes' tab of the :ref:`routes screen <sec-routes-screen>` you can
-select routes and perform one of the following actions on the selected routes: 
+In the :ref:`saved routes screen <sec-routes-load>` you can select routes and perform one of the following actions on the selected routes: 
 
 - Remove selected routes
 - Move selected routes into a folder
@@ -18,16 +17,16 @@ Selecting routes is similar to :ref:`selecting waypoints <ss-waypoints-select>`.
 
 Opening selection screen
 ~~~~~~~~~~~~~~~~~~~~~~~~
-If you press the button 'More' on the top right of the 'Routes' tab, a menu will be shown as in the figure below.
+If you press the button 'More' on the top right of the saved routes screen, a menu will be shown as in the figure below.
 
 .. figure:: ../_static/routes-select1.png
    :height: 568px
    :width: 320px
    :alt: Selecting routes Topo GPS
 
-   *The more menu of the routes tab.*
+   *The more menu of the saved routes screen.*
 
-Press ‘Select’ in the menu to open the selection screen. It is also possible to open the selection screen by pressing long on an item in the routes list. That item will then be selected immediately. An example of a selection screen is shown below:
+Press ‘Select’ in the menu to open the selection screen. It is also possible to open the selection screen by pressing long on an item in the saved routes screen. That item will then be selected immediately. An example of a selection screen is shown below:
 
 .. figure:: ../_static/routes-select2.png
    :height: 568px
@@ -53,8 +52,7 @@ To quickly select multiple routes you can long press on a item, leave the finger
 
 Performing an action
 ~~~~~~~~~~~~~~~~~~~~
-If you have made a selection you can perform an action with one of the buttons
-in the toolbar on the bottom of the screen. The toolbar buttons are from left to right:
+If you have made a selection you can perform an action with one of the buttons in the toolbar on the <APPLE>bottom</APPLE><ANDROID>top</ANDROID> of the screen. The toolbar buttons are:
 
 - *Trash button*: If you press this button a pop-up will ask to to whether you would like to remove the selected routes from your device (and iCloud if enabled). If you press 'Remove' the selected routes will be removed.
 
