@@ -48,6 +48,8 @@ The first section in the export settings screen is about geodata. Here you can s
 The remaining sections deal with the map (image) that can be exported. You can decide the file format of the map image (png, jpg, or pdf). You can set the desired pixel width and height with the sliders. Also to generate a map sometimes map tiles need to be downloaded. You can determine if you want to allow cellular downloads of map tiles.
  
 
+.. _ss-export-all-routes:
+
 Exporting all routes
 ~~~~~~~~~~~~~~~~~~~~
 
