@@ -11,6 +11,8 @@ The purchase are connected to your Apple account, so if you use the same Apple a
 Sometimes it might be necessary to go to Menu > Maps > More maps and tap 'Restore previous` purchases to retrieve the earlier purchases.
 If you have bought partial maps, you need to enable in the device settings under your Apple account > iCloud > Apps > Topo GPS on both your old and your new device.
 
+If you change your Apple account you cannot transfer your purchases. It is however possible to link accounts via Apple family sharing. Some maps are eligible for family sharing, and they can then still be made accessible via Menu > Maps > More maps > Restore previous purchases.
+
 Routes and points
 ~~~~~~~~~~~~~~~~~
 The easiest method of transfering the routes and points is via iCloud synchronisation of routes and points. If you have enabled this on your old device, enable it on your new device (Menu > More > Settings > Scroll to bottom). Then all routes and points should be retrieved automatically.
@@ -26,6 +28,7 @@ The purchases will be automatically accessible if you use the same Google Play a
 
 Sometimes it can happen that you used a country specific Topo GPS app, like Topo GPS Netherlands or Topo GPS Sweden. That Topo GPS app has a different icon from the universal Topo GPS app. If you used a country specific Topo GPS app before, you need to install this country spefici app, otherwise you cannot retrieve your earlier purchase. Go to the Google Play store and search for 'Topo GPS Netherlands/Sweden etc.'. If you have installed the univeral app already, you could also go to Menu > Maps > More maps > More > Restore earlier purchases.
 
+If you have changed your Google Play account you cannot retrieve the earlier purchases. It is not possible to transfer purchase from one Google Play account to another. If you need to change an e-mail adress connected to an account, make sure that you only change the e-mail address of that account, and not create a new Google Play account.
 
 Android -> Apple
 ----------------
