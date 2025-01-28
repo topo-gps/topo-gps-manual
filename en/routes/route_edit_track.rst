@@ -8,7 +8,10 @@ To edit the route track, first open the :ref:`route details screen <sec-route-de
 The route will be loaded in into the route planner in this way.
 
 In the previous sections, it was explained how to :ref:`extend a route <sec-route-extend>` and to :ref:`shorten a route <sec-route-shorten>`. 
-Below we will discuss the more general situation in which we will change the middle part of a route. <APPLE>In one of the next sections, it is explained how you can :ref:`split a route into parts <sec-route-split>`.</APPLE>
+Below we will discuss the more general situation in which we will change the middle part of a route.
+<APPLE>
+In one of the next sections, it is explained how you can :ref:`split a route into parts <sec-route-split>`.
+</APPLE>
 
 As an example we will now change the ‘Gower Hike’ so that the middle part of the route will go over the ‘Gower Way’. Initially the route looks as follows:
 
