@@ -1,5 +1,5 @@
-Transfering to a new device
-===========================
+Transferring to a new device
+============================
 
 If you have obtained a new device, you can install Topo GPS for free from the AppStore or the Google Play store. Below we discuss the various possibilities to transfer your purchases and data.
 
