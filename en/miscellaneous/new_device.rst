@@ -3,8 +3,8 @@ Transferring to a new device
 
 If you have obtained a new device, you can install Topo GPS for free from the AppStore or the Google Play store. Below we discuss the various possibilities to transfer your purchases and data.
 
-From Apple to Apple
--------------------
+Transferring from Apple to Apple
+--------------------------------
 Purchases
 ~~~~~~~~~
 The purchase are connected to your Apple account and are accessible on all your devices that use the same Apple account. Ensure that you are logged in into the AppStore with the correct Apple account. It might be necessary to go to Menu > Maps > More maps and tap 'Restore previous purchases` to retrieve the earlier purchases. 
@@ -19,8 +19,8 @@ The easiest method of transfering the routes and points is via :ref:`iCloud sync
 Alternatively, manually :ref:`export all routes in the saved routes screen <ss-export-all-routes>` to gpx.zip format (including photos) and save the file to a cloud storage service like iCloud, OneDrive, Dropbox or Google Drive.
 Do the same with the points. Open the file on your new device with Topo GPS, or use Menu > More > Import file to import the file into Topo GPS.
 
-From Android to Android
------------------------
+Transferring from Android to Android
+------------------------------------
 Purchases
 ~~~~~~~~~
 The purchases will be automatically accessible if you are logged in into Google Play with the same Google Play account as before. You might need to go to Menu > Maps > More maps to automatically retrieve the purchases.
@@ -33,8 +33,8 @@ Routes and points
 ~~~~~~~~~~~~~~~~~
 
 
-From Android to Apple
----------------------
+Transferring from Android to Apple
+----------------------------------
 Purchases
 ~~~~~~~~~
 It is not possible to transfer the purchase in Topo GPS from Android to Apple devices. This is because the purchases are connected to an Apple account on Apple devices and to your Google Play account on Android devices.
@@ -46,8 +46,8 @@ To transfer routes, on your Android device go to Menu > Routes > Saved routes. T
 On your Apple device go in Topo GPS to Menu > More > Import file and import the routes and waypoints files. Or in your cloud storage app, tap on the file and choose 'Open with Topo GPS'.
 
 
-From Apple to Android
----------------------
+Transferring from Apple to Android
+----------------------------------
 Purchases
 ~~~~~~~~~
 It is not possible to transfer the purchase in Topo GPS from Apple to Android devices. This is because the purchases are connected to an Apple account on Apple devices and to your Google Play account on Android devices.
