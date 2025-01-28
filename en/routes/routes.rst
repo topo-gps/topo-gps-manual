@@ -24,6 +24,9 @@ In Topo GPS you can :ref:`import <sec-routes-import>`, :ref:`plan <sec-route-pla
    route_shortening
    route_edit_track
    routes_merging
+<APPLE>
+   routes_split
+</APPLE>
    routes_remove
    routes_select
    routes_search
