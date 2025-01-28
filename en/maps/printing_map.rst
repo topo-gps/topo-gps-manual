@@ -3,7 +3,7 @@
 Printing maps
 =============
 
-If you plan to make an outdoor trip, it could be advisable to print a map of the surroundings. So that you can find your way, even in the case your device breaks down. If you do not want to get distracted by your phone, it might also be enjoyable to make a trip using a printed map. If you need a very high level of privacy, you could do all planning first, print a map of the route and points, and leave the smartphone at home.
+If you plan to make an outdoor trip, it could be advisable to print a map of the surroundings. So that you can find your way, even in the case your device breaks down. If you do not want to get distracted by your phone, it might also be enjoyable to make a trip using a printed map. Following a trip with a printed map can also help to improve your navigational skills. It is easy to add remarks on a printed map with a pencil. And if you need a very high level of privacy, you could do all planning first, print a map of the route and points, and leave your smartphone at home.
 
 To print a map, first :ref:`select the part of the map <ss-map-select>` that needs to be printed. You can do this by pressing long with two fingers simultaneously on the map.
 Moving the fingers can change the selection. If you release your fingers, tap 'Print' in the pop-up. Sometimes it could be useful to first :ref:`rotate the map <ss-map-rotate>`, before making a selection.
