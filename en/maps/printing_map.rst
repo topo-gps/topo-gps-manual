@@ -3,14 +3,14 @@
 Printing maps
 =============
 
-If you plan to make an outdoor trip, it could be advisable to print a map of the surroundings. So that you can find your way, even in the case your device breaks down.
+If you plan to make an outdoor trip, it could be advisable to print a map of the surroundings. So that you can find your way, even in the case your device breaks down. If you do not want to get distracted by your phone, it might also be enjoyable to make a trip using a printed map. If you need a very high level of privacy, you could do all planning first, print a map of the route and points, and leave the smartphone at home.
 
 To print a map, first :ref:`select the part of the map <ss-map-select>` that needs to be printed. You can do this by pressing long with two fingers simultaneously on the map.
 Moving the fingers can change the selection. If you release your fingers, tap 'Print' in the pop-up. Sometimes it could be useful to first :ref:`rotate the map <ss-map-rotate>`, before making a selection.
 
 Alternatively, if you want to print the area which is currently visible in the maps screen, you could tap Menu > Maps > Print map. <APPLE>On MacOS you could also press Command-P.</APPLE>
 
-If you want to display content on the printed map, like a route, points, or a layer, first load the contents on the main map. Then tap the print button. It might be also useful to add a :ref:`coordinates grid <sec-coordinate-grids>`, in order to be able to read off and find coordinates on the printed map.
+If you want to display content on the printed map, like a route, points, or a layer, first load the contents on the main map. Then tap the print button. It might be also useful to add a :ref:`coordinates grid <sec-coordinate-grids>`, in order to be able to read off and find coordinates on the printed map with help of a map protractor.
 
 If the print button is pressed, in both cases a print pop-up appears, like in the figure below:
 
