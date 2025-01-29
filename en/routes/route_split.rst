@@ -4,7 +4,14 @@ Splitting a route
 ==================
 
 To split a route into parts, first open the :ref:`route details screen <sec-route-details>` and tap 'Edit > Split route'.
-Then the split route screen will be opened. Using this screen you can split a route into multiple parts. 
+Then the split route screen will be opened as in the example below. Using this screen you can split a route into multiple parts. 
+
+.. figure:: ../_static/route-split.png
+   :height: 568px
+   :width: 320px
+   :alt: Split route Topo GPS
+
+   *The split route screen.*
 
 The orange icons with scissors indicate the points where the route should be cut. By pressing long on one of these points you 
 can drag them along the route to another location, so that you can determine the exact location where the route should be cut.
