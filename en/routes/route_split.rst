@@ -4,7 +4,7 @@ Splitting a route
 ==================
 
 To split a route into parts, first open the :ref:`route details screen <sec-route-details>` and tap 'Edit > Split route'.
-Then the split route screen will be opened as in the example below. Using this screen you can split a route into multiple parts. 
+The split route screen will then be opened like in the example below. Using this screen you can split a route into multiple parts. 
 
 .. figure:: ../_static/route-split.png
    :height: 568px
