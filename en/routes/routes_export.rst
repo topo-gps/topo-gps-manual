@@ -30,13 +30,7 @@ After pressing the share icon the export pop-up will appear, an example is shown
 In the export pop-up you can select the kind of data that will be exported when pressing the export button in the bottom of the pop-up.
 The kind of exported data can be any combination of the following:
 
-- *Geodata*: If you include 'Geodata' a data file containing the route(s) will be exported. The file format is shown in the subtitle of the geodata item. In the example above it is gpx. If you press :ref:`settings <ss-route-export-settings>` you can change the data format. 
-<APPLE>
-Supported file formats for exporting routes are gpx, gpx.zip, kml, kmz, geojson, and geojson.zip.
-</APPLE>
-<ANDROID>
-Supported file formats for exporting routes are gpx, gpx.zip, kml, and kmz.
-</ANDROID>
+- *Geodata*: If you include 'Geodata' a data file containing the route(s) will be exported. The file format is shown in the subtitle of the geodata item. In the example above it is gpx. If you press :ref:`settings <ss-route-export-settings>` you can change the data format. <APPLE>Supported file formats for exporting routes are gpx, gpx.zip, kml, kmz, geojson, and geojson.zip.</APPLE><ANDROID>Supported file formats for exporting routes are gpx, gpx.zip, kml, and kmz.</ANDROID>
 - *Photos*: If you include 'Photos' the photos of the routes(s) will be exported as well. This item is not available if their are no photos.
 - *Map*: If you include 'Map' a map of the routes(s) will be exported. The pixel size of the map is displayed in the subtitle. You can change the pixel size and the data format (jpg/png/pdf) in the :ref:`export settings <ss-route-export-settings>`.
 
@@ -61,6 +55,8 @@ In the export pop-up you can also change the export settings by pressing the 'Se
    *The route export settings screen.*
 
 The first section in the export settings screen is about geodata. Here you can set the data format of the to be exported route(s). By tapping 'Route data format' you can choose between gpx, kml, and geojson. You can decide whether you want to compress the data. If you enable compression the exported geodata file will be zip compressed. The file size will be much smaller than without compression, therefore we recommend you to enable compression.
+
+In the gpx section you can decide to enable 'Joining track segments'. This is important if you intend to export the gpx of a planned route to a Garmin device. The Garmin devices cannot properly import gpx files consisting of multiple track segments. A Garmin device only will show you the first segment. By joining the tracksegments to a single tracksegment the route can be imported correctly.
 
 The remaining sections deal with the map (image) that can be exported. You can decide the file format of the map image (png, jpg, or pdf). You can set the desired pixel width and height with the sliders. Also to generate a map sometimes map tiles need to be downloaded. You can determine if you want to allow cellular downloads of map tiles.
  
