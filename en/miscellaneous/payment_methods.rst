@@ -6,10 +6,9 @@ If paying by credit card, mobile phone, or bank transfer does not work, you migh
 
 AppStore
 --------
-On the :ref:`AppStore webpage the possible payment methods <https://support.apple.com/en-us/111741>`__ are listed.
-It is also explained how you can :ref:`add or modify payement methods <https://support.apple.com/en-us/118429>`__.
+On the AppStore webpage the `possible payment methods <https://support.apple.com/en-us/111741>`_ are listed.
+It is also explained how you can `add or modify payement methods <https://support.apple.com/en-us/118429>`_.
 
 Google Play
 ------------
-On the :ref:`Google Play website <https://support.google.com/googleplay/answer/4646404?hl=en&co=GENIE.Platform%3DAndroid>`__ it is explained how you can add and solve issues with
-payment methods.
+On the Google Play website the `accepted payment methods <https://support.google.com/googleplay/answer/2651410?sjid=12150363625075185956-EU>`_ are listed. There it is also explained how you can `solve issues with your payment method <https://support.google.com/googleplay/answer/4646404?hl=en&co=GENIE.Platform%3DAndroid>`_.
