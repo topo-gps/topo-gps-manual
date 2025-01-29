@@ -25,12 +25,18 @@ Purchases
 ~~~~~~~~~
 The purchases will be automatically accessible if you are logged in into Google Play with the same Google Play account as before. You might need to go to Menu > Maps > More maps to automatically retrieve the purchases.
 
-In the past we had different country specific Topo GPS apps. If you use one of these apps, like for example Topo GPS Netherlands or Topo GPS Sweden, you need to install this country specific Topo GPS app on your new device, otherwise you cannot retrieve your earlier purchases. Go to the Google Play store and search for 'Topo GPS Netherlands/Sweden etc.'. A country specific Topo GPS app has a different icon from the universal Topo GPS app. If you have installed the univeral app already, you could also go in the universal Topo GPS app to Menu > Maps > More maps > More > Restore earlier purchases.
+In the past we had different country specific Topo GPS apps. If you use one of these apps, like for example Topo GPS Netherlands or Topo GPS Sweden, you need to install this country specific Topo GPS app on your new device, otherwise you cannot retrieve your earlier purchases. Go to the Google Play store and search for 'Topo GPS Netherlands/Sweden etc.'. Or tap on one of the following links on your new Android device:
+`Netherlands <https://play.google.com/store/apps/details?id=nl.rdzl.topo.gps>`__, `Sweden <https://play.google.com/store/apps/details?id=se.rdzl.topo.gps>`__, `Germany <https://play.google.com/store/apps/details?id=ge.rdzl.topo.gps>`__, `Norway <https://play.google.com/store/apps/details?id=no.rdzl.topo.gps>`__, `Denmark <https://play.google.com/store/apps/details?id=dk.rdzl.topo.gps>`__, `Finland <https://play.google.com/store/apps/details?id=fi.rdzl.topo.gps>`__, `France <https://play.google.com/store/apps/details?id=fr.rdzl.topo.gps>`__, `Belgium <https://play.google.com/store/apps/details?id=be.rdzl.topo.gps>`__, `New Zealand <https://play.google.com/store/apps/details?id=nz.rdzl.topo.gps>`__.
+
+A country specific Topo GPS app has a different icon from the universal Topo GPS app. If you have installed the univeral app already, you could also go in the universal Topo GPS app to Menu > Maps > More maps > More > Restore earlier purchases.
 
 If you have changed your Google Play account you cannot retrieve the earlier purchases. It is not possible to transfer purchase from one Google Play account to another. If you need to change an e-mail adress connected to an account, make sure that you only change the e-mail address of that account, and not create a new Google Play account.
 
 Routes and points
 ~~~~~~~~~~~~~~~~~
+To transfer routes, on your Android device go to Menu > Routes > Saved routes. Tap the More button (top right), and tap 'Export all'. Save the file to a cloud storage service that you can access on you Android device, like for example Google Drive. Do the same with the points via Menu > Points.
+On your Android device go in Topo GPS to Menu > More > Import file and import the routes and waypoints files. Or in the cloud storage service app Google Drive app, tap on the file and choose 'Open with Topo GPS'.
+The points can sometimes be retrieved automatically from Android backup. But because the storage capability for an Android app backup is minimal, photos are not included and this possibility is not available for routes.
 
 
 Transferring from Android to Apple
