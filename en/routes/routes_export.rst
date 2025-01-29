@@ -35,11 +35,17 @@ The kind of exported data can be any combination of the following:
 - *Map*: If you include 'Map' a map of the routes(s) will be exported. The pixel size of the map is displayed in the subtitle. You can change the pixel size and the data format (jpg/png/pdf) in the :ref:`export settings <ss-route-export-settings>`.
 
 <APPLE>
+If you include a 'Map' in the export you can also enable the option 'Annotate map' (not on MacOS). Then before sharing the map with another app, you can draw annotations on the map with your finger or with an Apple Pencil.
+</APPLE>
+
+<APPLE>
 After you have selected the kind of data to be exported you can press 'Export' in the bottom of the export pop-up to export the route(s). Then a regular iOS pop-up will show up in which you can pick an app to send the exported data to. For example, iMessage to send the route(s) to a friend, or the files app to save the routes(s) on the cloud.
 </APPLE>
 <ANDROID>
 After you have selected the kind of data to be exported you can press 'Export' in the bottom of the export pop-up to export the route(s). Then a regular Android share pop-up will show up in which you can pick an app to send the exported data to. Sometimes not all apps are shown in the share pop-up. Then you could try to tap 'Open in other app' instead of 'Export'.
 </ANDROID>
+
+
 
 .. _ss-route-export-settings:
 
