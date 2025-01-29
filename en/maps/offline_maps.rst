@@ -5,7 +5,7 @@
 
 Making maps offline accessible
 ==============================
-To ensure that the maps are accessible when your are not connected to internet (offline) you can make maps offline accessible. Offline accessible means that the maps are stored on your device and that you can view them without a internet connection.
+To ensure that the maps are accessible when your are not connected to internet (offline) you can make maps offline accessible. Offline accessible means that the maps are stored on your device and that you can view them without an internet connection.
 
 Map tiles
 ~~~~~~~~~
@@ -22,46 +22,24 @@ On the top left of the :ref:`main screen <sec-main-screen>` the percentage offli
 
    *On the top left of the main screen you can view the percentage of the currently visible area that is offline accessible.*
 
-In the figure above the percentage of offline accessible map tiles is 22%. By looking at the map screen you might think that all map tiles are already accessible, since the whole map screen is covered with tiles. However, if you zoom in, map tiles with a higher resolution will be loaded. If the percentage is not 100% it can happen that when you zoom in grey tiles or unsharp tiles are shown instead of the higher resolution map tiles.
+In the figure above the percentage of offline accessible map tiles is less than 100%. By looking at the map screen you might think that all map tiles are already accessible, since the whole map screen is covered with tiles. However, if you zoom in, map tiles with a higher resolution will be loaded. If the percentage is not 100% it can happen that when you zoom in grey tiles or unsharp tiles are shown instead of the higher resolution map tiles.
 
 .. _ss-cache-download:
 
 Downloading map tiles
 ~~~~~~~~~~~~~~~~~~~~~
-If you tap the label ‘Offline accessible:‘ on the top left of the map screen the map download screen will appear. Alternatively you can tap Menu > Maps > Download map. In the map download screen you can download map tiles of the area that is currently visible in the map screen.
+If you tap the label ‘Offline accessible:‘ on the top left of the map screen the map download screen will appear as in the figure below. Alternatively you can tap Menu > Maps > Download map.
 
-An example of the map download screen is displayed below:
-
-.. figure:: ../_static/map-offline2.png  
+.. figure:: ../_static/map-offline2.png
    :height: 568px
    :width: 320px
-   :alt: Making map offline accessible Topo GPS
+   :alt: The map download screen
 
-   *The map download screen with which you can download map tiles.*
+In the map download screen you can download map tiles of the area that is currently visible in the map screen.  To download all map tiles of the current area, you have to press ‘Download’. The amount of MB indicates an estimate of the size of the download in megabytes.
 
-To download all map tiles of the current area, you have to press ‘Download’. The amount of MB indicates an estimate of the size of the download in megabytes.
+If downloading of map tiles has been started, the download button shows how many tiles still need to be downloaded. While downloading map tiles, the percentage offline accessible will increase to 100%. You can cancel the downloading of map tiles at any time by pressing ‘Stop download’.
 
-If downloading of map tiles has been started, the download button shows how many tiles still need to be downloaded, as you can see below:
-
-.. figure:: ../_static/map-offline3.png  
-   :height: 568px
-   :width: 320px
-   :alt: Making map offline accessible Topo GPS
-
-   *Downloading map tiles.*
-
-While downloading map tiles, the percentage offline accessible will increase to 100%. You can cancel the downloading of map tiles at any time by pressing ‘Stop download’.
-
-If you wait the percentage off-line accessible will become 100% automatically, as in the figure below:
-
-.. figure:: ../_static/map-offline4.png  
-   :height: 568px
-   :width: 320px
-   :alt: Making map offline accessible Topo GPS
-
-   *The current area has been made completely offline accessible.*
-
-If you return to the map screen and do not move or zoom out on the map, you will see that the percentage offline accessible is 100%. In that case you are certain that you have all map tiles off the area stored on your device.
+If you return to the map screen and do not move or zoom out on the map, you will see that the percentage offline accessible is 100%. In that case you are certain that you have all map tiles off the area stored on your device. To verify this, you could temporarily put your device on Airplane mode without WiFi access. If you then zoom in or out in regions with 100% offline accessiblity, no gray map tiles should appear.
 
 <APPLE>
 Above the download button you can find a detail level slider. If you open the map download screen the detail level slider is always set to the highest detail level. This indicates that all possible map tiles will be downloaded if you press the download button. If you set this slider to a lower detail level, the tiles necessary for zooming in far will not be downloaded. As a result the download size will be much smaller, and you need less storage space. The offline percentage is then also computed with leaving out the highest resolution tiles. This could be useful if you only need an overview map of a certain area, and do not need to have all map tiles at the highest resolution possible. 
@@ -83,11 +61,11 @@ Storage space
 ~~~~~~~~~~~~~
 Storing of map tiles on your device costs disk space. In the map download screen you can see how much space has been used.
 
-‘Current map’ means the total storage of the complete current map. So in the case of the figure above it means that the complete map of Great Britain uses currently 65 MB of the storage space.
+‘Current map’ means the total storage of the complete current map.
 
-‘All maps’ means the total storage of all maps together. So suppose you have also stored map tiles of New Zealand and France, ‘All maps’ indicates the total size used by France, New Zealand and Great Britain. In the figure above this is 174 MB.
+‘All maps’ means the total storage of all maps together. 
 
-‘Free on device’ means the amount of available storage space on your device. In the figure above this is 1450 GB.
+‘Free on device’ means the amount of available storage space on your device.
 
 <APPLE>
 If you tap on 'All maps' you will get an overview of the storage space used for each map. If you tap on of the maps in this overview, the map will be opened, and you can then tap 'Offline accessible' > Scroll down > Remove to remove tiles to free up storage space.
@@ -107,13 +85,10 @@ To format your SD card you can put it in a Windows computer. Then right click on
 
 Removing map tiles
 ~~~~~~~~~~~~~~~~~~
-If you need storage space, you can remove map tiles in the bottom of the map download screen.
-
-Suppose you return from a nice vacation on the Shetland Islands. You have no plans to return in the near future, and do not need the maps anymore. Then you move the map such that only the Shetland Islands are visible. Next you press the ‘Offline accessible’ button on the top left of the screen to open the map download screen.’
-
+If you want to remove map tiles, you need to scroll down to the bottom of the map download screen. 
 If you scroll to the bottom of the map download screen you will find a ‘Remove’ button as you can see below:
 
-.. figure:: ../_static/map-offline5.png  
+.. figure:: ../_static/map-offline3.png  
    :height: 568px
    :width: 320px
    :alt: Making map offline accessible Topo GPS
