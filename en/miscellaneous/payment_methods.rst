@@ -2,7 +2,7 @@
 Payment methods
 ===============
 You can only make purchases in Topo GPS through the Apple AppStore or Google Play store. Available payment methods vary from country to country. 
-If paying by credit card, mobile phone, or bank transfer does not work, you might want to consider buying a AppStore or Google Play store gift card in a supermarket or gas station.
+If paying by credit card, mobile phone, or bank transfer does not work, you might want to consider buying a AppStore or Google Play store gift card in a for example a bookstore, supermarket or gas station.
 
 AppStore
 --------
