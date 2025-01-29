@@ -5,7 +5,7 @@ Changing current map
 
 To change the current map, tap Menu > Maps to open the :ref:`maps pop-up <ss-maps-popup>`. <APPLE>In MacOS tap Control-0 (zero).</APPLE>
 
-If there are alternative maps available for the current visible area in the main screen, they are shown in the bottom of the maps pop-up. Tapping an alternative map immediately switches the current map. If you tap 'More maps' in the maps pop-up, the maps screen will be opened. Here (:ref:`Menu <sec-menu>` > Maps) you can also change the current map and :ref:`purchase additional maps <sec-purchase-maps>`.
+If there are alternative maps available for the current visible area in the main screen, they are shown in the bottom of the maps pop-up. Tapping an alternative map immediately changes the current map. If you tap 'More maps' in the maps pop-up, the maps screen will be opened. Here (:ref:`Menu <sec-menu>` > Maps) you can also change the current map and :ref:`purchase additional maps <sec-purchase-maps>`.
 
 Suppose the main map is currently the topographic map of Great Britain, as in the example below.
 
