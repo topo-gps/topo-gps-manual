@@ -35,8 +35,9 @@ Press ‘Select’ in the menu to open the selection screen. It is also possible
 
    *The selection screen in which you can select routes.*
 
+
 Selecting routes
-~~~~~~~~~~~~~~~-
+~~~~~~~~~~~~~~~~
 To select one or more routes, tap a route item in the selection screen. A checkmark will show up and the background of the item will become grey to indicate that it is selected. An example in which two routes are selected is displayed below:
 
 .. figure:: ../_static/routes-select3.png
