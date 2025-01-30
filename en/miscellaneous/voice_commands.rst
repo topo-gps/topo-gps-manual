@@ -10,7 +10,7 @@ To set this up, first go to the settings app under 'Apple intelligence and Siri'
 Maybe you also want to enable 'Allow Siri when device locked'. This allows you to always invoke Siri. 
 Then scroll down to Apps and select Topo GPS. Here you can enable the various Siri options for Topo GPS. The more options you enable, the better the Siri integration will work.
 
-Finally you should go to the Apple shortcuts app, navigate there to Topo GPS page. Here tap the info button on the top right of the screen and enable 'Siri'. Once this is done you can give voice commands to your phone.
+Finally you should go to the Apple shortcuts app, navigate there to the Topo GPS page. Here tap the info button on the top right of the screen and enable 'Siri'. Once this is done you can give voice commands to your phone.
 
 
 Supported voice commands
