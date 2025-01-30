@@ -16,7 +16,7 @@ Finally you should go to the Apple shortcuts app, navigate there to the Topo GPS
 Supported voice commands
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-You can give various commands, they should all start with 'Hey Siri', to activate Siri. If you have enabled 'Allow Siri when device locked' in the device settings, you can even do this when the device is locked. The commands should contain with/using/via Topo or Topo GPS to let Apple know that the command should be performed with the Topo GPS app. The following commands are possible:
+You can give various commands, they should all start with 'Hey Siri', to activate Siri. If you have enabled 'Allow Siri when device locked' in the device settings, you can always give commands. The commands should contain with/using/via Topo or Topo GPS to let Apple know that the command should be performed with the Topo GPS app. The following voice commands are supported:
 
 - Hey Siri, record route with Topo
 - Hey Siri, stop recording route with Topo
