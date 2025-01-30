@@ -19,7 +19,7 @@ Opening selection screen
 ~~~~~~~~~~~~~~~~~~~~~~~~
 If you press the button 'More' on the top right of the `:ref:`saved routes screen <sec-routes-load>`, a menu will be shown. Tap ‘Select’ in the menu to open the selection screen. It is also possible to open the selection screen by pressing long on an item in the saved routes screen. That item will then be selected immediately. An example of the saved routes selection screen is shown below:
 
-.. figure:: ../_static/routes-select2.png
+.. figure:: ../_static/routes-select1.png
    :height: 568px
    :width: 320px
    :alt: Route selection screen Topo GPS
@@ -31,7 +31,7 @@ Selecting routes
 ~~~~~~~~~~~~~~~~
 To select one or more routes, tap a route item in the selection screen. A checkmark will show up and the background of the item will become grey to indicate that it is selected. An example in which two routes are selected is displayed below:
 
-.. figure:: ../_static/routes-select3.png
+.. figure:: ../_static/routes-select2.png
    :height: 568px
    :width: 320px
    :alt: Two selected routes Topo GPS
