@@ -2,7 +2,7 @@
 
 Searching routes
 ================
-In the 'Routes' and 'Shared' tab of the :ref:`routes screen <sec-routes-screen>` you can search routes by :ref:`entering keywords in the search bar <ss-route-search-keywords>`, and by :ref:`applying filters <ss-route-filter>`. Furthermore you can :ref:`sort the routes <ss-route-sort>` in various ways.
+In the :ref:`saved routes screen <sec-routes-screen>` you can search routes by :ref:`entering keywords in the search bar <ss-route-search-keywords>`, and by :ref:`applying filters <ss-route-filter>`. Furthermore you can :ref:`sort the routes <ss-route-sort>` in various ways.
 
 
 .. _ss-route-search-keywords:
@@ -26,15 +26,22 @@ Sorting routes
 Below the folder/filter bar below the search bar, the current sort method is displayed in the middle.
 If you tap the sort button you can change the current sort method between:
 
+<APPLE>
 - *Customizable order*: The routes are sorted in customizable order. If you did not change the order manually, the most recent added routes are on top.
+</APPLE>
+<ANDROID>
+- *Most recent on top*: The most recent added routes are on top.
+</ANDROID>
 - *Closest on top*: The routes are sorted according to their distance of the start or end point to your current location, the closest is on top.
+- *Closest to center on map on top*: The routes are sorted according to their distance from start/finish point to the center of the currently visible map. If you move the map and reopen the saved routs screen you could get a different orderering.
 - *Newest on top*: The routes are sorted according to their creation time, the newest is on top.
 - *Longest on top*: The routes are sorted on length, the longest is on top.
 - *Shortest on top*: The routes are sorted on length, the shortest is on top.
 - *Oldest on top*: The routes are sorted according to their creation time, the oldest is on top.
 - *Most recently updated on top*: The routes are sorted according to the time at which they were last changed, the routes that was changed most recently is on top.
 - *Least recently updated on top*: The routes are sorted according to the time at which they were last changed, the routes that was changed the longest go is on top.
-- *Alphabetically*: The routes are sorted in alphabetical order.
+- *Alphabetical*: The routes are sorted in alphabetical order.
+- *Reversed alphabetical*: The routes are sorted in reversed alphabetical order
 
 .. figure:: ../_static/route-search2.png
    :height: 568px
@@ -47,8 +54,7 @@ If you tap the sort button you can change the current sort method between:
 
 Filtering routes
 ~~~~~~~~~~~~~~~~
-It is also possible to filter routes on location and on route type.
-To enable a filter, tap the filter button in the routes screen (just below the search bar on the right hand side). If the filter is enabled, the filter button has a blue background, as in the figure below. If the filter is disabled, only the edge of the filter button is blue, as in the figure above.
+It is also possible to filter routes on location, length and type. To enable a filter, tap the filter button in the routes screen (just below the search bar on the right hand side). If the filter is enabled, the filter button has a blue background, as in the figure below. If the filter is disabled, only the edge of the filter button is blue, as in the figure above.
 
 .. figure:: ../_static/route-search3.png
    :height: 568px
@@ -94,6 +100,7 @@ If you tap it, you could change the current point to:
 - *Everywhere*: There is no filtering on location.
 - *Current location*: Only routes within a certain distance of the current location are shown.
 - *Visible part of map*: Only routes that are within the bounds of the currently visible part of the main map are shown in the routes screen.
+- *Within selected area*: A map view will be shown in which you can set an area. It is even possible to rotate the map to make a special selection. Only routes which have their starting or finish points in the selected area will be shown if this fitler is enabled.
 - *Custom location*: If you enter a custom location or coordinates only routes within a certain distance of the entered location are shown.
 
 
