@@ -5,7 +5,7 @@ Gray map screen
 
 The map consist out of of map tiles. Sometimes it might happen that not all tiles are available. Then the map screen will be partly or completely gray as in the example below.
 
-.. figure:: ../_static/map-problem1.png  
+.. figure:: ../_static/map-download1.png  
    :height: 568px
    :width: 320px
    :alt: Gray map Topo GPS
