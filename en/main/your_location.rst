@@ -44,7 +44,7 @@ for the Topo GPS route recorder. Also 'Allow background battery usage' in Apps >
 
 Current location screen
 -----------------------
-If you tap the position marker, the current location screen will appear. 
+If you tap the :ref:`position marker <sec-posmarker>`, the current location screen will appear. 
 You can also open this screen by pressing long on the :ref:`position button <ss-position-button>` on the :ref:`dashboard <sec-dashboard>`.
 
 The current location screen shows details of your current location. In the current location screen you can also save your current location
