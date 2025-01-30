@@ -26,7 +26,12 @@ In the top right of the waypoint details screen you can also find the following 
 
 The waypoint details screen contains information about the waypoint, such as the title and the coordinates. If available you can also find here a description, photos, a phone number and/or an URL.
 
-The coordinates are displayed in various formats. You can set the displayed coordinate types by tapping the '>' next to the coordinates. If you press long on the coordinates you can select them and copy the coordinates in text format.
+<APPLE>
+The coordinates of the point are displayed in various formats. You can change the displayed coordinate systems by tapping on the '>' on the right hand side. If you press long on a pair of coordinates you can choose for Copy or Share the coordinates in textual format. You can also choose here 'Speak out' to speak out the coordinates in the language of your device or in English. Speak out could a very useful option if you have to communicate clearly coordinates over an audio connection like a phone. There will be a smaller possibility for errors that reading out the cooordinates by yourself.
+</APPLE>
+<ANDROID>
+The coordinates of the point are displayed in various formats. You can change the displayed coordinate systems via Menu > More > Settings > Displayed coordinate types. If you press long on a pair of coordinates you can select it can copy or share the textual representation of the coordinates.
+</ANDROID>
 
 The physical address of a waypoint is also displayed in the details screen. If the address of a waypoint is still unknown, Topo GPS will look up this address using a reverse geocoder from <APPLE>Apple</APPLE><ANDROID>Android</ANDROID>. For this you have to enable the option :ref:`Addresses - find automatically <sec-settings-addresses>` in the :ref:`settings <ss-settings>`. You have also to be connected to the internet.
 
