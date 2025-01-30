@@ -60,7 +60,12 @@ into a waypoint and export your current location with the buttons in the bottom 
 In the location information screen you find subsequently the following information:
 
 - *Map*: A map of the surroundings of your current location. You can also zoom and move this map.
-- *Coordinates*: The coordinates of your current location in various formats. You can change the displayed coordinate systems by tapping the item. If you press long on a coordinate you can select it, and then press 'Share' to share the coordinates in textual format.
+<APPLE>
+- *Coordinates*: The coordinates of your current location in various formats. You can change the displayed coordinate systems by tapping on the '>' on the right hand side. If you press long on a pair of coordinates you can choose for Copy or Share the coordinates in textual format. You can also choose here 'Speak out' to speak out the coordinates in the language of your device or in English. Speak out could a very useful option if you have to communicate clearly coordinates over an audio connection like a phone. There will be a smaller possibility for errors that reading out the cooordinates by yourself.
+</APPLE>
+<ANDROID>
+- *Coordinates*: The coordinates of your current location in various formats. You can change the displayed coordinate systems by tapping on the more icon on the top of the screen. You can tap long on the coordinates to select and copy it.
+</ANDROID>
 - *Address*: The approximate address of your location. If you move this address will be updated automatically. If you press long on the address you can select and share it. If you press 'Edit' you can disabled automatic lookup of addresses in the current location screen.
 - *Location accuracy*: The accuracy of the location determination. This accuracy means that your true location has a high probability of being inside a circle with a radius equal to the accuracy. If the GPS signal is good the location accuracy is 5 m or less.
 - *Altitude*: The current altitude of the device above the WGS84 geoid with the accuracy.
