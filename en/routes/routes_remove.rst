@@ -29,7 +29,7 @@ A pop-up will appear in which you have to confirm the removal as is shown below:
    :width: 320px
    :alt: Route remove Topo GPS
 
-   *Removing the route ‘Gower Hike’.*
+   *The remove popup.*
 
 If you press ‘Remove’ the route will be removed from your device.
 
