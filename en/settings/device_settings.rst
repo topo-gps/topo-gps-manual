@@ -5,7 +5,7 @@ Device settings for Topo GPS
 
 If you scroll to the bottom of the :ref:`settings screen <ss-settings>` or you go to the iOS Settings app > Topo GPS, you can modify the device settings of Topo GPS.
 
-An example of the iOS device settings screen is shown in the figure below:
+An example of the device settings screen is shown in the figure below:
 
 .. figure:: ../_static/settings-device.jpg
    :height: 760px
@@ -28,6 +28,6 @@ In the device settings screen you can subsquently set the following options:
 
 - *Mobile data*. If you enable this setting Topo GPS can use the mobile network. This is for example necessary for :ref:`route planning <sec-route-plan>` and :ref:`downloading map tiles <sec-cache>` over a mobile network.
 
-- *Language*. Here you can set the language Topo GPS is using. Supported languages are English, German, Spanish, French, Dutch, Swedish, Norwegian, Danish, Finnish and Japanese. If your device language is supported, that language is used by default.
+- *Language*. Here you can set the language Topo GPS is using, and you could set it different from the language that you use on your device. Supported languages are English, German, Spanish, French, Italian, Dutch, Swedish, Norwegian, Danish, Finnish, Polish, Japanese, Ukrainian, Czech, Slovak, Slovenian, Greek, and Estonian. If your device language is supported, that language is used by default.
 
 
