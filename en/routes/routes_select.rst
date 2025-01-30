@@ -17,16 +17,7 @@ Selecting routes is similar to :ref:`selecting waypoints <ss-waypoints-select>`.
 
 Opening selection screen
 ~~~~~~~~~~~~~~~~~~~~~~~~
-If you press the button 'More' on the top right of the saved routes screen, a menu will be shown as in the figure below.
-
-.. figure:: ../_static/routes-select1.png
-   :height: 568px
-   :width: 320px
-   :alt: Selecting routes Topo GPS
-
-   *The more menu of the saved routes screen.*
-
-Press ‘Select’ in the menu to open the selection screen. It is also possible to open the selection screen by pressing long on an item in the saved routes screen. That item will then be selected immediately. An example of a selection screen is shown below:
+If you press the button 'More' on the top right of the `:ref:`saved routes screen <sec-routes-load>`, a menu will be shown. Tap ‘Select’ in the menu to open the selection screen. It is also possible to open the selection screen by pressing long on an item in the saved routes screen. That item will then be selected immediately. An example of the saved routes selection screen is shown below:
 
 .. figure:: ../_static/routes-select2.png
    :height: 568px
