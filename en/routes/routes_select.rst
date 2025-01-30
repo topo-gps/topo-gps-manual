@@ -58,7 +58,7 @@ If you have made a selection you can perform an action with one of the buttons i
 
 - *Folder button*: If you press this button a screen with the folder tree will be opened. You can select a folder and the selected routes will be moved to this folder.
 
-- *Export button*: If you press this button the export pop-up will be shown. In this pop-up you can select the kind of data to be exported and change the export settings. If you press 'Export' in the export pop-up the selected routes will be exported. Another pop-up with apps and actions will be shown. If you tap an app or action, the result of the export will be handled by the app or action.
+- *Export button*: If you press this button the :ref:`export pop-up <sec-routes-export>` will be shown. In this pop-up you can select the kind of data to be exported and change the export settings. If you press 'Export' in the export pop-up the selected routes will be exported. Another pop-up with apps and actions will be shown. If you tap an app or action, the result of the export will be handled by the app or action.
 
 - *Map button*: If you press this button, the selected routes will be loaded on the map. The map will zoom automatically to the selected routes and you will return to the map.
 
@@ -66,4 +66,4 @@ If you have made a selection you can perform an action with one of the buttons i
 
   - *Remove from map*: The selected routes will be removed from the map.
   - *Merge*: The selected routes will be :ref:`merged into a new route <sec-routes-merge>`. A screen will be displayed in which you can choose a title. If you press 'Save' the merged route will be created. <APPLE>Sometimes it might be useful to merge routes first, and then :ref:`split them <sec-route-split>` afterwards (Route details > Edit > Split route). For example in this way you can make your personal daily tracks from a collection of routes that together make a longer trail.</APPLE>
-  - *Edit line style: The line style of the selected routes can be modified. In this way you can easily give a collection of routes a distinct color or line width.
+  - *Edit line style*: The line style of the selected routes can be modified. In this way you can easily give a collection of routes a distinct color or line width.
