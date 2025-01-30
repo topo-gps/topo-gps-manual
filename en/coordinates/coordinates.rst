@@ -4,7 +4,7 @@ Coordinates
 ===========
 Geographic coordinates are a set of numbers and/or characters that refer to a location on the earth.
 
-Topo GPS supports the global WGS84 decimal, WGS84 degree minutes, WGS84 degree minutes seconds, UTM, and MGRS coordinate systems. Next to that we support various country specific coordinate systems.
+Topo GPS supports the global WGS84 decimal, WGS84 degree minutes, WGS84 degree minutes seconds, UTM, MGRS, GEOREF, GARS and QTH (Maidenhead) coordinate systems. Next to that we support various country specific coordinate systems. A `list of all supported coordinate systems <https://www.topo-gps.com/supported-coordinate-systems/>` is published on our website. 
 
 In Topo GPS you can view the coordinates of a :ref:`point on the map on the dashboard <ss-coordinate-panel>`. You can view the coordinates of a waypoint in the :ref:`waypoint details screen <ss-waypoint-details>`. It is also possible to :ref:`add a coordinate grid layer to the map <sec-coordinate-grids>`.
 
