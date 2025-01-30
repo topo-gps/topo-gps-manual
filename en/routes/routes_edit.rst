@@ -2,7 +2,7 @@
 
 Editing routes
 --------------
-To edit a route, first open the :ref:`route details screen <sec-route-details>`. Then tap the button 'Edit' in the bottom toolbar. A pop-up appears as you can see in the example below:
+To edit a route, first open the :ref:`route details screen <sec-route-details>`. <APPLE>Then tap the button 'Edit' in the bottom toolbar.</APPLE><ANDROID>Then tap the pencil icon in the top of the screen.</ANDROID> A pop-up appears as you can see in the example below:
 
 .. figure:: ../_static/route-edit1.png
    :height: 568px
