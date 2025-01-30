@@ -20,7 +20,7 @@ If you are not scrolled out of the region the map covers, the gray screen is cau
 
 To see why the maps are not being downloaded, tap the offline accessible button on the top left of the screen to open the map download screen:
 
-.. figure:: ../_static/map-offline1.png  
+.. figure:: ../_static/map-offline2.png  
    :height: 568px
    :width: 320px
    :alt: Map download screen 
