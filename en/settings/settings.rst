@@ -33,8 +33,8 @@ The settings screen contains the following sections:
    search_results
    addresses
    camera
-   dashboard
    <APPLE>
+   dashboard
    synchronize_with_icloud
    </APPLE>
    device_settings
