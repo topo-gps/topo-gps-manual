@@ -76,8 +76,8 @@ Especially when you are in the air, it might be of interest to get an estimate o
 If you have recorded a route, you can view the height above ground profile in the route details screen. If the route is aerial, the height above ground profile is already listed below the elevation profile. Else you can tap on the elevation profile to view the profile details, and then in the top of the screen, you can switch the profile view to height above ground.
 
 
-Technical details of the hight extension
-========================================
+Technical details of the height extension
+=========================================
 Downloading
 ~~~~~~~~~~~
 The height information is stored in tiles which have a size of 4 km x 4 km. These tiles have to be downloaded from our server and will be stored on your device. You can download the height information of a particular region by tapping 'Offline accessible' on the top left of the screen to open the map download screen. Then scroll down to the bottom to the section 'Height models'. Here you can tap 'Download' to download the height models for the currently visible region. You can also remove height models to reclaim storage space.
