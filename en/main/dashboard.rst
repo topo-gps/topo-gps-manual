@@ -172,7 +172,7 @@ as is illustrated below:
    :width: 320px
    :alt: Coordinates panel Topo GPS
 
-   *The map with the coordinate panel.*
+   *The map with the coordinates panel.*
 
 The coordinates that are displayed on the coordinates panel are the coordinates of the point in the middle of the cross. In the example above the coordinates are displayed in WGS84 degree minutes seconds format. Below you can read how to change this format.
 
