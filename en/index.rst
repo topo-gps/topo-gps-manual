@@ -45,5 +45,8 @@ Contents:
    camera
    compass_direction
    measure/measure
+   <APPLE>
+   extensions/height_extension
+   </APPLE>
    settings/settings
    miscellaneous/miscellaneous
