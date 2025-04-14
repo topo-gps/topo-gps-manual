@@ -76,7 +76,7 @@ If you tap the percentage icon next to the profile, a slope profile is generated
 
 Height profiles for routes planned using 'Crow fly'
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you did not :ref:`activate the height extension`, routes planned using the transportation mode 'crow fly' will not have a height profile. Purchasing the height extension ensures that the :ref:`routes planned <sec-route-plan>` using the transportation means 'crow fly' in the :ref:`covered region <ss-height-extension-coverage>` automatically get a height profile once the route lies in the coverage region of the height extension. An example is shown in the figure below:
+If you did not :ref:`activate the height extension`, routes planned using the transportation mode 'crow fly' will not have a height profile. Purchasing the height extension ensures that the :ref:`routes planned <sec-route-plan>` using the transportation means 'crow fly' automatically get a height profile once the route lies in the :ref:`covered region of the height extension <ss-height-extension-coverage>`. An example is shown in the figure below:
 
 .. figure:: ../_static/he-5.png
    :height: 568px
