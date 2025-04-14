@@ -216,4 +216,6 @@ The following actions are possible:
 
    *The coordinates in the coordinates panel were changed to MGRS.*
 
-If you have purchased the :ref:`height extension <sec-height-extension>` the terrain height of the center point will be displayed next to the coordinates, if you are in the covered region of the height extension.
+<APPLE>
+If you have purchased the :ref:`height extension <ss-height-extension-display-height>` the terrain height of the center point will be displayed next to the coordinates, if you are in the covered region of the height extension.
+</APPLE>
