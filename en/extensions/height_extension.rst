@@ -76,7 +76,7 @@ If you tap the percentage icon next to the profile, a slope profile is generated
 
 Height profiles for routes planned using 'Crow fly'
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you did not :ref:`activate the height extension`, routes planned using the transportation mode 'crow fly' will not have a height profile. Purchasing the height extension ensures that the routes planned using 'crow fly' in the :ref:`covered region <ss-height-extension-coverage>` automatically get a height profile once the route lies in the coverage region of the height extension. An example is shown in the figure below:
+If you did not :ref:`activate the height extension`, routes planned using the transportation mode 'crow fly' will not have a height profile. Purchasing the height extension ensures that the :ref:`routes planned <sec-route-plan>` using the transportation means 'crow fly' in the :ref:`covered region <ss-height-extension-coverage>` automatically get a height profile once the route lies in the coverage region of the height extension. An example is shown in the figure below:
 
 .. figure:: ../_static/he-5.png
    :height: 568px
@@ -105,7 +105,7 @@ If you have imported a route that lacks a route, a height profile will be automa
 
 Generate terrain height profiles for recorded routes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you have recorded a route, the height is determined by the GPS and/or barometer of the device once available. Sometimes the height data obtained in this way is quite inaccurate, with huge fluctuations. Therfore we also display the terrain height profile below the recored height profile in the :ref:`route details screen <sec-route-details>`. The terrain height profile might sometimes be very different from the actual profile, for example when somebody crosses a bridge over a valley.
+If you have recorded a route, the height is determined by the GPS and/or barometer of the device. Sometimes the height data obtained in this way is quite inaccurate, with huge fluctuations. Therfore we also display the terrain height profile below the recored height profile in the :ref:`route details screen <sec-route-details>`. This terrain height profile could be more usuable and give a more reliable estimate of the total ascent. However, sometimes the terrain height profile is very different from the actual profile, for example when somebody crosses a bridge over a valley. This bridge will be included in the recorded height profile, but not in the terrain height profile which follows the shape of the valley.
 
 
 .. _ss-height-above-ground:
@@ -114,7 +114,7 @@ Height above ground
 ~~~~~~~~~~~~~~~~~~~
 Especially when you are in the air, it might be of interest to get an estimate of the height with respect to the ground. The height from the GPS (altitude) is the height relative to the mean sea level. If you subtract the terrain height from that, you will get the height above the ground. If you tap on the position marker, you can view your current height above ground. 
 
-If you have recorded a route, you can view the height above ground profile in the route details screen. If the route is aerial, the height above ground profile is already listed below the elevation profile. Else you can tap on the elevation profile to view the profile details, and then in the top of the screen, you can switch the profile view to height above ground.
+If you have recorded a route, you can view the height above ground profile in the route details screen. If the route is aerial, the height above ground profile is already listed below the terrain height profile. If not you can tap on the height profile to view the profile details, and then in the top of the screen, you can switch the profile view to height above ground.
 
 
 Technical details of the height extension
