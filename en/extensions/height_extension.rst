@@ -32,7 +32,7 @@ Displaying terrain height
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 To display the terrain height in meters above sea level of a certain point, you have to slide the dashboard twice to the left to open the :ref:`coordinates panel <ss-coordinate-panel>`. Then the terrain height (elevation) of the point indicated with the cross in the center of the map will be displayed next to the coordinates as in the example below:
 
-.. figure:: _static/he-1.png
+.. figure:: ../_static/he-1.png
    :height: 568px
    :width: 320px
    :alt: Showing terrain height Topo GPS
@@ -52,7 +52,7 @@ Quick height profiles
 To quickly obtain a height profile along a straight line, you have to activate the :ref:`map ruler <ss-map-ruler>`. Press long on the map so that a waypoint creation icon appears, then add a second finger to activate the ruler.
 If the map ruler is in the :ref:`covered region <ss-height-extension-coverage>`, and the ruler is long enough, a height profile icon will appear next to the closing cross icon. If you tap the height profile icon, a profile will be shown in the top of the screen. This is the height profile along the line of the map ruler.
 
-.. figure:: _static/he-2.png
+.. figure:: ../_static/he-2.png
    :height: 568px
    :width: 320px
    :alt: Quick height profile Topo GPS
@@ -65,7 +65,7 @@ You can zoom the profile in and out by putting two fingers on the profile window
 
 If you tap the percentage icon next to the profile, a slope profile is generated. Depending on the slope units set in the Topo GPS settings, either the slope percentage or the slope angle is shown. It allows you to quickly see how steep a certain line is.
 
-.. figure:: _static/he-3.png
+.. figure:: ../_static/he-3.png
    :height: 568px
    :width: 320px
    :alt: Quick slope profile Topo GPS
@@ -78,7 +78,7 @@ Height profiles for routes planned using 'Crow fly'
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 If you did not :ref:`activate the height extension`, routes planned using the transportation mode 'crow fly' will not have a height profile. Purchasing the height extension ensures that the routes planned using 'crow fly' in the :ref:`covered region <ss-height-extension-coverage>` automatically get a height profile once the route lies in the coverage region of the height extension. An example is shown in the figure below:
 
-.. figure:: _static/he-5.png
+.. figure:: ../_static/he-5.png
    :height: 568px
    :width: 320px
    :alt: Quick height profile Topo GPS
@@ -116,7 +116,7 @@ Downloading
 ~~~~~~~~~~~
 The height information is stored in tiles which have a size of 4 km x 4 km. These tiles have to be downloaded from our server and will be stored on your device. You can download the height information of a particular region by tapping 'Offline accessible' on the top left of the screen to open the map download screen. Then scroll down to the bottom to the section 'Height models'. Here you can tap 'Download' to download the height models for the currently visible region. You can also remove height models to reclaim storage space.
 
-.. figure:: _static/he-4.png
+.. figure:: ../_static/he-4.png
    :height: 568px
    :width: 320px
    :alt: Downloading digital height models Topo GPS
