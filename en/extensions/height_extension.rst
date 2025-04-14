@@ -99,7 +99,14 @@ The height information in used in the height extension is based on very accurate
 
 Generate height profiles for routes that lack a height profile
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you have imported a route that lacks a route, a height profile will be automatically generated if you open the route details screen of the route. If the route is long, you might have to tap on the button 'Generate height profile'. It can take a while before the height profile appears, because sometimes height information has to be downloaded.
+If you have imported a route that lacks a route, a height profile will be automatically generated if you open the route details screen of the route. If the route is long, you might have to tap on the button 'Generate height profile'. It can take a while before the height profile appears, because sometimes height information has to be downloaded first.
+
+
+
+Generate terrain height profiles for recorded routes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If you have recorded a route, the height is determined by the GPS and/or barometer of the device once available. Sometimes the height data obtained in this way is quite inaccurate, with huge fluctuations. Therfore we also display the terrain height profile below the recored height profile in the route details screen. You can see the difference for your self, and use the one which you think is more reliable. The terrain height profile might sometimes not be the actual profile, for example when somebody crosses a bridge over a valley.
+
 
 .. _ss-height-above-ground:
 
