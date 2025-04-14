@@ -45,8 +45,7 @@ To remove the map ruler, tap the close button with the cross on the ruler.
 <APPLE>
 Quick height profile
 --------------------
-If the map ruler lies in the :ref:`coverage region of the height extension <ss-height-extension-coverage>`, a profile icon will be shown on the map ruler, if it is long enough. If you tap this profile icon, and you have bought the height extension, a :ref:`height profile will be shown <ss-height-extension-coverage>` on the top of the screen. This height profile shows the heights along the line of the map ruler.
-
+If the map ruler lies in the :ref:`coverage region of the height extension <ss-height-extension-coverage>`, a profile icon will be shown on the map ruler, if the ruler is long enough. If you tap this profile icon, and you have bought the height extension, a :ref:`height profile will be shown <ss-quick-height-profiles>` in the top of the screen. This height profile shows the heights along the line of the map ruler. If you move the map ruler the height profile will be updated automatically.
 </APPLE>
 
 .. _ss-map-ruler-navigate:
