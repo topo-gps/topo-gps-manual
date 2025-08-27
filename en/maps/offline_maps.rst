@@ -41,9 +41,7 @@ If downloading of map tiles has been started, the download button shows how many
 
 If you return to the map screen and do not move or zoom out on the map, you will see that the percentage offline accessible is 100%. In that case you are certain that you have all map tiles off the area stored on your device. To verify this, you could temporarily put your device on Airplane mode without WiFi access. If you then zoom in or out in regions with 100% offline accessiblity, no gray map tiles should appear.
 
-<APPLE>
 Above the download button you can find a detail level slider. If you open the map download screen the detail level slider is always set to the highest detail level. This indicates that all possible map tiles will be downloaded if you press the download button. If you set this slider to a lower detail level, the tiles necessary for zooming in far will not be downloaded. As a result the download size will be much smaller, and you need less storage space. The offline percentage is then also computed with leaving out the highest resolution tiles. This could be useful if you only need an overview map of a certain area, and do not need to have all map tiles at the highest resolution possible. 
-</APPLE>
 
 We recommend you to download only areas you really need, instead of very large regions. This will save you storage space and download time. If you really need to download a very large area it sometimes helps to split the download into smaller regions.
 
@@ -67,9 +65,7 @@ Storing of map tiles on your device costs disk space. In the map download screen
 
 ‘Free on device’ means the amount of available storage space on your device.
 
-<APPLE>
 If you tap on 'All maps' you will get an overview of the storage space used for each map. If you tap on of the maps in this overview, the map will be opened, and you can then tap 'Offline accessible' > Scroll down > Remove to remove tiles to free up storage space.
-</APPLE>
 
 <ANDROID>
 Storage location
