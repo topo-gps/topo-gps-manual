@@ -1,4 +1,3 @@
-<APPLE>
 .. _sec-height-extension:
 
 Height extension
@@ -17,7 +16,7 @@ It is possible to extend Topo GPS with the height extension. This extension allo
 
 Coverage
 ~~~~~~~~
-The height extension is a paid extension and currently only available for The Netherlands, Belgium, Luxembourg and western and southern part of Germany. In the future we will add more regions. If you purchase the height extension now, you will also get access to the regions that will be added in the future. 
+The height extension is a paid extension and currently only available for Germany, England, Wales, France, Switzerland, Austria, The Netherlands, Belgium, and Luxembourg. In the future we will add more regions. If you purchase the height extension now, you will also get access to the regions that will be added in the future. 
 
 .. _ss-height-extension-purchase:
 
@@ -139,5 +138,3 @@ The heights in the height extension are obtained from digital terrain models. Th
 Privacy
 ~~~~~~~
 To determine a height using the height extension, first the necessary height tile of 4 km x 4 km is determined. If the tile is not stored on your device, it is automatically downloaded from our server. Then the height is determined from this height tile on your device. Never will any coordinates be send to our server. The height extension is very privacy friendly, we cannot in anyway view the positions of your points or routes, if you determine a height or a height profile. 
-
-</APPLE>
