@@ -156,6 +156,7 @@ In this screen you can subsequently enter the title, the author and a descriptio
 Based on the start and finish point of the route an automatic suggestion for the route title
 will be made. This suggestion appears in the title field if you do not enter a title yourself.
 If you do not enter a title, the suggestion will be used when saving the route. 
+If you tap at the end of the suggested title, you can modify the suggested title.
 
 To ensure automatic title suggestion functions properly, the option :ref:`‘Addresses - Find automatically’ <sec-settings-addresses>` should
 be enabled in the :ref:`settings <ss-settings>`.
