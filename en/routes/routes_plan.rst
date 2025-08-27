@@ -87,4 +87,4 @@ If you want to save a planned route tap 'Save' in the top right of the route pla
    
    *Saving a planned route*
 
-You can enter the title, author, route type, and description. You can also decide to include waypoints that are currently loaded on the map in the route. Then tap 'Save' to save the planned route. You will return to the :ref:`main screen <sec-main-screen>` and the map will be zoomed the planned route. 
+You can enter the title, author, route type, and description. The grey title placeholder in the title field is the suggested title, and will be used if you do not enter a title. If you tap at the end of the suggested title, you can modify the suggested title. You can also decide to include waypoints that are currently loaded on the map in the route. Then tap 'Save' to save the planned route. You will return to the :ref:`main screen <sec-main-screen>` and the map will be zoomed the planned route. 
