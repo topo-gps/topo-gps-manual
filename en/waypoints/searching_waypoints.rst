@@ -35,6 +35,7 @@ Below the folder/filter bar, the current sort method is displayed in the middle.
 - *Most recently updated on top*: The waypoints are sorted according to the time at which they were last changed, the waypoint that was changed most recently is on top.
 - *Least recently updated on top*: The waypoints are sorted according to the time at which they were last changed, the waypoint that was changed the longest ago is on top.
 - *Alphabetically*: The waypoints are sorted in alphabetical order.
+- *Reverse alphabetically*: The waypoints are sorted in reversed alphabetical order.
 
 .. figure:: ../_static/waypoint-search2.png
    :height: 568px
@@ -74,7 +75,8 @@ The following screen will be shown in which you can change the current filter:
    *Modifying a filter.*
 
 In the section 'Waypoint location' you can change the properties of the location filter. In the example above it is set to 'All waypoints within 10 km of your current location'. The slider can be moved to determine the maximal distance of shown waypoints to a specific point.
-Below the slider, the point is displayed. If you tap it, you could change the current point to:
+Above the slider, the location of the location filter is displayed. 
+If you tap it, you could change it to:
 
 - *Everywhere*: There is no filtering on location.
 - *Current location*: Only waypoints within a certain distance of the current location are shown.
