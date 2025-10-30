@@ -83,6 +83,11 @@ The 'C' and 'D' waypoints now can be found in the 'Sights' folder.
 
 Below the search bar you can see the current location in the folder tree. If you press 'All waypoints' you will return to the root folder.
 
+<APPLE>
+It is also possible to open a specific folder by tapping the folder icon with the arrow in the top of the screen. Then a screen with all available folder will be opened, in which you can pick a folder.
+</APPLE>
+
+
 .. _ss-waypoint-folder-load:
 
 Loading contents of folder
