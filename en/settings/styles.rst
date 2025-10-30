@@ -39,6 +39,8 @@ As an example we now show below the screen in which you can change the line prop
 
 You can change the color using the Red/Green/Blue slider. It is also possible to change the color using a color picker by tapping 'Choose color' below the sliders. The transparancy slider determines how transparant the line is. A bit transparancy allows you to see the map behind the route line.
 
+It is also possible to set the line style of an individual route. This can be done via :ref:`route details > edit route <ss-route-edit>`. Also in the saved routes screen you can select a number of routes and tap 'More > Edit line style' to change the line style of a collection of routes.
+
 
 .. _ss-settings-posmarker:
 
