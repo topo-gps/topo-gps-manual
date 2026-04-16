@@ -29,7 +29,7 @@ If you press the button 'More' on the top right of the :ref:`saved routes screen
 
 Selecting routes
 ~~~~~~~~~~~~~~~~
-To select one or more routes, tap a route item in the selection screen. A checkmark will show up and the background of the item will become grey to indicate that it is selected. An example in which two routes are selected is displayed below:
+To select one or more routes, tap a route item in the selection screen. A checkmark will show up and the background of the item will become gray to indicate that it is selected. An example in which two routes are selected is displayed below:
 
 .. figure:: ../_static/routes-select2.png
    :height: 568px
@@ -57,5 +57,8 @@ If you have made a selection you can perform an action with one of the buttons i
 - *More button*: If you press the more button in the bottom toolbar, a menu will appear from which you can choose the following actions:
 
   - *Remove from map*: The selected routes will be removed from the map.
-  - *Merge*: The selected routes will be :ref:`merged into a new route <sec-routes-merge>`. A screen will be displayed in which you can choose a title. If you press 'Save' the merged route will be created. <APPLE>Sometimes it might be useful to merge routes first, and then :ref:`split them <sec-route-split>` afterwards (Route details > Edit > Split route). For example in this way you can make your personal daily tracks from a collection of routes that together make a longer trail.</APPLE>
+  - *Merge into new route*: The selected routes will be :ref:`merged into a new route <sec-routes-merge>`. A screen will be displayed in which you can choose a title. If you press 'Save' the merged route will be created. <APPLE>Sometimes it might be useful to merge routes first, and then :ref:`split them <sec-route-split>` afterwards (Route details > Edit > Split route). For example in this way you can make your personal daily tracks from a collection of routes that together make a longer trail.</APPLE>
   - *Edit line style*: The line style of the selected routes can be modified. In this way you can easily give a collection of routes a distinct color or line width.
+<APPLE>
+  - *Save as layer*: With this option you can combine the selected routes into a separate layer. In the pop-up that appears you can choose to override the customly set route line styles, and pick a default color for the lines. After choosing a title and tapping save, the routes are combined into a layer and can be loaded and removed from the map via Menu > Layers.
+</APPLE>
