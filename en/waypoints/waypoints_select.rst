@@ -71,6 +71,8 @@ If you have selected the waypoints you can perform an action with one of the but
   - *Remove from map*: If you tap this button, the selected waypoints will be removed from the map.
   
   - *Change icon*: If you tap this button the :ref:`waypoint icons screen <ss-waypoint-icon>` will be opened. You can tap an icon in this screen to change the icon of the selected waypoints. 
+
+  - *Save as layer*: With this option you can combine the selected waypoints into a separate layer. In the pop-up that appears you can enter a title for the layer. After tapping save, the selected waypoints are copied into a newly created layer. They can be loaded and removed all together at once from the map via Menu > Layers.
 </APPLE>
 <ANDROID>
 - *Map button*: If you tap this button, the selected waypoints will be loaded on the map. The map will zoom automatically to the selected waypoints and you will be returned to the map.
