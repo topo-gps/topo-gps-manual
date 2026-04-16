@@ -15,7 +15,13 @@ Files of these types can also be imported if they are compressed in a zip file.
 
 To import a route you could try to tap on a file icon. Most often an app picker will show up. Sometimes you need to scroll through the list of apps or tap More to find 'Topo GPS'. You then have to tap 'Open with Topo GPS' or 'Copy to Topo GPS' and the file will be imported in Topo GPS. 
 
-Alternatively you could tap :ref:`Menu <sec-menu>` > More > Import file. Then the files app will be opened. Here you can select a cloud storage, like iCloud, Dropbox, OneDrive or Google Drive. Then you can browse through your files and select the files you want to import.
+<APPLE>
+Sometimes it is useful to use drag and drop. For that have to press long on the file or item and move your finger to drag it. Then you have to move it into the Topo GPS main smap creen. On an iPhone, after you have long press on a file, item or URL to start a drag. Then you have to open the app switcher with a second finger by swiping the screen upwards at the bottom. Now still holding the first finger, you can use your second finger to switch to Topo GPS, and if you are at the main map screen you can drop the file here. It will then be automatically imported.
+
+For example dragging a link on a webpage to a gpx file into Topo GPS, might be a convenient way of importing a route.
+</APPLE>
+
+Alternatively you could also tap :ref:`Menu <sec-menu>` > More > Import file. Then the files app will be opened. Here you can select a cloud storage, like iCloud, Dropbox, OneDrive or Google Drive. Then you can browse through your files and select the files you want to import.
 
 If the routes were imported successfully, you will return to the main screen, and the map will be zoomed to the imported routes. The imported routes will be saved on your device and can be found back in the :ref:`routes screen <sec-routes-load>`.
 
