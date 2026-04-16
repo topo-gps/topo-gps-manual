@@ -10,6 +10,10 @@ Separate photo's will only be imported if they contain a location in the EXIF me
 
 To import waypoints you could try to tap on a file icon. Most often an app picker will show up. You then have to select 'Open with Topo GPS' or 'Copy to Topo GPS' and the file will be imported in Topo GPS.
 
+<APPLE>
+Sometimes it is useful to use drag and drop. For that have to press long on the file or item and move your finger to drag it. Then you have to move it into the Topo GPS main smap creen. On an iPhone, after you have long press on a file or item, you have to open the app switcher with a second finger by swiping the screen upwards at the bottom. Now still holding the first finger, you can use your second finger to switch to Topo GPS, and if you are at the main map screen you can drop the file here. It will then be automatically imported.
+</APPLE>
+
 Alternatively you could import the files directly into Topo GPS by tapping :ref:`Menu <sec-menu>` > More > Import file in the main screen as shown below. Then files app will be opened. Here you can select a cloud storage, like iCloud, Dropbox, OneDrive or Google Drive. Then you can browse through your files and select the files you want to import.
 
 .. figure:: ../_static/menu_more.jpg
