@@ -11,4 +11,5 @@ Miscellaneous
    <APPLE>
    voice_commands
    control_panel
+   key_bindings
    </APPLE>
