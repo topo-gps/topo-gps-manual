@@ -15,7 +15,8 @@ In Topo GPS you can :ref:`import <sec-routes-import>`, :ref:`plan <sec-route-pla
    routes_unload
    routes_record
    routes_plan
-   routes_generate
+   routes_generate   
+   transportation_means
    route_details
    downloading_route_maps
    route_profiles
