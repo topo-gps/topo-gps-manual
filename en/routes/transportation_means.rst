@@ -15,17 +15,18 @@ Walking
 --------
 This should used for planning a walking or hiking route. The route will respect roads suitable for pedestrians. An internet connection is necessary.
 In the settings you can set the following options:
-* Prefer more scenic roads: It will choose nicer roads when possible.
-* Prefer paved roads: It will try to use paved roads and avoid the unpaved roads.
-* Prefer unpaved roads: It will try to use the unpaved roads, and avoid the paved roads.
-* Prefer curved roads: It will prefer roads with curves.
-* Prefer rural areas: It will prefer rural areas if possible, and tries to avoid urban areas.
-* Prefer urban areas: It will prefer urban areas if possible, and tries to avoid rural areas.
-* Avoid cycle roads: It will avoid cycle roads, i.e. roads that need to be shared with bicyclists.
-* Avoid hills: It will prefer flat train.
-* Avoid stairs: It will avoid stairs.
-* Avoid ferries: It will avoid ferries. This might be useful if you want to avoid the risk of not able to cross a water because the ferry is not running.
-* Avoid tunnels: It will avoid tunnels. Might be useful if you do not prefer to walk through tunnels.
+
+- Prefer more scenic roads: It will choose nicer roads when possible.
+- Prefer paved roads: It will try to use paved roads and avoid the unpaved roads.
+- Prefer unpaved roads: It will try to use the unpaved roads, and avoid the paved roads.
+- Prefer curved roads: It will prefer roads with curves.
+- Prefer rural areas: It will prefer rural areas if possible, and tries to avoid urban areas.
+- Prefer urban areas: It will prefer urban areas if possible, and tries to avoid rural areas.
+- Avoid cycle roads: It will avoid cycle roads, i.e. roads that need to be shared with bicyclists.
+- Avoid hills: It will prefer flat train.
+- Avoid stairs: It will avoid stairs.
+- Avoid ferries: It will avoid ferries. This might be useful if you want to avoid the risk of not able to cross a water because the ferry is not running.
+- Avoid tunnels: It will avoid tunnels. Might be useful if you do not prefer to walk through tunnels.
 
 Bicycle
 -------
