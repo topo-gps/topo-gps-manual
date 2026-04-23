@@ -124,7 +124,7 @@ This is useful for planning a motorcycle trip. An internet connection is necessa
 
 Crow fly
 --------
-The crow fly transportation means can be used to plan the shortest line between points. An internet connection is not necessary.
+The crow fly transportation means can be used to plan the shortest path between points. If the distance is small, it will be a straight line. An internet connection is not necessary.
 Using the crow fly it is possible to plan any route, even one that does not respect the roads.
 If you have purchased the height extension, also a height profile will be generated in specific countries.
 There are no possible fine-tune settings for the crow fly transportation means.
