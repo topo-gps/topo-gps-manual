@@ -32,6 +32,7 @@ Bicycle
 -------
 This should be used for planning a bicycle route. The route will respect roads suitable for bicycles. An internet connection is necessary.
 In the settings you can set the following options:
+
 - Prefer more scenic roads: It will choose nicer roads when possible.
 - Prefer bicycle roads: It will prefer bicycle roads if possible.
 - Prefer paved roads: It will try to use paved roads and avoid the unpaved roads.
@@ -48,6 +49,7 @@ Racing bike
 -----------
 This should be used for planning a route for the racing bike. The route will respect roads suitable for fast bicycles. An internet connection is necessary.
 In the settings you can set the following options:
+
 - Prefer curved roads: It will prefer roads with curves.
 - Prefer rural areas: It will prefer rural areas if possible, and tries to avoid urban areas.
 - Prefer urban areas: It will prefer urban areas if possible, and tries to avoid rural areas.
@@ -63,6 +65,7 @@ Mountainbike
 This should be used for planning a route for mountainbike (MTB). The route will try to take specially designated mtb paths if possible. An internet connection is necessary.
 Note that you should always verify if mountainbiking is allowed on the planned trail, especially in nature areas. Sometimes a special permit is necessary.
 In the settings you can set the following options:
+
 - Avoid ferries: It will avoid ferries. 
 
 <APPLE>
@@ -71,16 +74,19 @@ Horse
 This should be used for planning a horse riding route. It is a new possibility and might not be optimal. 
 It will prefer bridleways (but only those which are not forbidden for pedestrians). It will avoid specially designated bicycle roads, since in most countries they are forbidden for horses.
 An internet connection is necessary. In the settings you can set the following options:
+
 - Prefer paved roads: It will try to use paved roads and avoid the unpaved roads.
 - Prefer unpaved roads: It will try to use the unpaved roads, and avoid the paved roads.
 - Avoid ferries: It will avoid ferries. This might be useful if you want to avoid the risk of not able to cross a water because the ferry is not running.
 - Avoid tunnels: It will avoid tunnels. Might be useful if you do not prefer to walk through tunnels.
+
 </APPLE>
 
 Car
 ---
 This should be used if planning a route by car. It will in principle give you the fastest route possible. An internet connection is necessary.
 In the settings you can set the following options:
+
 - Avoid ferries: It will avoid ferries. This might be useful if you want to avoid the risk of not able to cross a water because the ferry is not running.
 - Avoid toll: It will avoid toll roads.
 - Avoid tunnels: It will avoid tunnels.
@@ -90,6 +96,7 @@ Car (avoid primary roads)
 -------------------------
 This is useful if you want to plan a scenic car route. It will automatically avoid all motorways and high speed primary roads. An internet connection is necessary.
 In the settings you can set the following options:
+
 - Prefer curved roads: It will prefer roads with curves.
 - Prefer unpaved roads: It will try to use the unpaved roads, and avoid the paved roads.
 - Prefer rural areas: It will prefer rural areas if possible, and tries to avoid urban areas.
@@ -102,6 +109,7 @@ In the settings you can set the following options:
 Motorcycle
 ----------
 This is useful for planning a motorcycle trip. An internet connection is necessary. In the settings you can set the following options:
+
 - Prefer curved roads: It will prefer roads with curves. That might give a more enjoyable trip.
 - Prefer unpaved roads: It will try to use the unpaved roads, and avoid the paved roads.
 - Prefer rural areas: It will prefer rural areas if possible, and tries to avoid urban areas.
