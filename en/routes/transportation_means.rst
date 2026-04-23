@@ -13,25 +13,25 @@ For planning a route or generating a route you can choose between the following 
 
 Walking
 --------
-This should used for planning a walking or hiking route. The route will respect roads suitable for pedestrians. An internet connection is necessary.
-In the settings you can set the following options:
+The walking transportation means in Topo GPS should be used for manual route planning and automatic route generation. When this profile is selected, the route calculation will respect roads and trails suitable for pedestrians. An active internet connection is necessary.
 
-- Prefer more scenic roads: It will choose nicer roads when possible.
-- Prefer paved roads: It will try to use paved roads and avoid the unpaved roads.
-- Prefer unpaved roads: It will try to use the unpaved roads, and avoid the paved roads.
-- Prefer curved roads: It will prefer roads with curves.
-- Prefer rural areas: It will prefer rural areas if possible, and tries to avoid urban areas.
-- Prefer urban areas: It will prefer urban areas if possible, and tries to avoid rural areas.
-- Avoid cycle roads: It will avoid cycle roads, i.e. roads that need to be shared with bicyclists.
-- Avoid hills: It will prefer flat train.
-- Avoid stairs: It will avoid stairs.
-- Avoid ferries: It will avoid ferries. This might be useful if you want to avoid the risk of not able to cross a water because the ferry is not running.
-- Avoid tunnels: It will avoid tunnels. Might be useful if you do not prefer to walk through tunnels.
+When planning a Walking route, you can adjust the following settings to customize your path:
+
+- Prefer more scenic roads: Chooses nicer environments when possible.
+- Prefer paved roads: Favors paved surfaces and avoids unpaved trails.
+- Prefer unpaved roads: Favors dirt or gravel trails and avoids paved roads.
+- Prefer curved roads: Favors paths with more curves.
+- Prefer rural areas: Routes through nature or countryside, avoiding cities.
+- Prefer urban areas: Routes through towns or cities, avoiding the countryside.
+- Avoid cycle roads: Avoids paths that must be shared with bicyclists.
+- Avoid hills: Seeks out flat terrain.
+- Avoid stairs: Prevents routes that require climbing steps.
+- Avoid ferries: Prevents routes requiring water crossings (useful if ferries are not running).
+- Avoid tunnels: Keeps the route above ground. Avoids even short tunnels.
 
 Bicycle
 -------
-This should be used for planning a bicycle route. The route will respect roads suitable for bicycles. An internet connection is necessary.
-In the settings you can set the following options:
+The bicycle transportation means should be used for planning and generating a bicycle route. The route will respect roads suitable for bicycles. An internet connection is necessary. In the settings you can set the following options:
 
 - Prefer more scenic roads: It will choose nicer roads when possible.
 - Prefer bicycle roads: It will prefer bicycle roads if possible.
@@ -47,7 +47,7 @@ In the settings you can set the following options:
 
 Racing bike
 -----------
-This should be used for planning a route for the racing bike. The route will respect roads suitable for fast bicycles. An internet connection is necessary.
+The racing bike transportation means should be used for planning and generating a route for the racing bike. The route will respect roads suitable for fast bicycles. An internet connection is necessary.
 In the settings you can set the following options:
 
 - Prefer curved roads: It will prefer roads with curves.
@@ -62,7 +62,7 @@ In the settings you can set the following options:
 
 Mountainbike
 ------------
-This should be used for planning a route for mountainbike (MTB). The route will try to take specially designated mtb paths if possible. An internet connection is necessary.
+The mountainbike transporation means should be used for planning a route for mountainbike (MTB). The route will try to take specially designated mtb paths if possible. An internet connection is necessary.
 Note that you should always verify if mountainbiking is allowed on the planned trail, especially in nature areas. Sometimes a special permit is necessary.
 In the settings you can set the following options:
 
@@ -71,7 +71,7 @@ In the settings you can set the following options:
 <APPLE>
 Horse
 -----
-This should be used for planning a horse riding route. It is a new possibility and might not be optimal. 
+The horse transportation means should be used for planning and generating a horse riding route. It is a new possibility and might not be optimal. 
 It will prefer bridleways (but only those which are not forbidden for pedestrians). It will avoid specially designated bicycle roads, since in most countries they are forbidden for horses.
 An internet connection is necessary. In the settings you can set the following options:
 
@@ -84,7 +84,7 @@ An internet connection is necessary. In the settings you can set the following o
 
 Car
 ---
-This should be used if planning a route by car. It will in principle give you the fastest route possible. An internet connection is necessary.
+The car transportation means should be used if planning a route by car. It will in principle give you the fastest route possible. An internet connection is necessary.
 In the settings you can set the following options:
 
 - Avoid ferries: It will avoid ferries. This might be useful if you want to avoid the risk of not able to cross a water because the ferry is not running.
@@ -94,7 +94,7 @@ In the settings you can set the following options:
 
 Car (avoid primary roads)
 -------------------------
-This is useful if you want to plan a scenic car route. It will automatically avoid all motorways and high speed primary roads. An internet connection is necessary.
+The car (avoid primary roads) transportation means is useful if you want to plan a scenic car route. It will automatically avoid all motorways and high speed primary roads. An internet connection is necessary.
 In the settings you can set the following options:
 
 - Prefer curved roads: It will prefer roads with curves.
@@ -108,7 +108,7 @@ In the settings you can set the following options:
 
 Motorcycle
 ----------
-This is useful for planning a motorcycle trip. An internet connection is necessary. In the settings you can set the following options:
+The motorcycle transportation means is useful for planning or generating a motorcycle trip. An internet connection is necessary. In the settings you can set the following options:
 
 - Prefer curved roads: It will prefer roads with curves. That might give a more enjoyable trip.
 - Prefer unpaved roads: It will try to use the unpaved roads, and avoid the paved roads.
