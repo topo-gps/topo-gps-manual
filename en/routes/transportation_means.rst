@@ -9,7 +9,7 @@ Note that enabling any of the possible settings can increase the duration and/or
 
 It is possible to mix the transportation means when planning a route. One can for example start with pedestrian, then plan a part with 'Crow fly' and then plan with 'Bicycle'.
 
-The following transportation means are settings supported:
+For planning a route or generating a route you can choose between the following transportation means: Walking, Bicycle, Racing bike, Mountainbike, Horse, Motorcycle, Car, Car (avoid highways), and Crow fly.
 
 Walking
 --------
