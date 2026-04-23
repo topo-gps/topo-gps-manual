@@ -41,9 +41,9 @@ You can obtain more information about the route planner, by pressing 'Planner: C
 
 Transportation means
 ~~~~~~~~~~~~~~~~~~~~
-To plan a route, first verify the current `transportation means <sec-transportation-means>` in the overlay. In the example above, it is set to 'Walking'. By tapping 'Walking' a screen will appear in which you can change the `transportation means <sec-transportation-means>`.
+To plan a route, first verify the current :ref:`transportation means <sec-transportation-means>` in the overlay. In the example above, it is set to 'Walking'. By tapping 'Walking' a screen will appear in which you can change the :ref:`transportation means <sec-transportation-means>`.
 
-On the right hand side of the transportation means button there is a `settings <sec-transportation-means>` icon. If you tap this icon you can fine tune the behavior of the transportation means. Depending on the settings the route will be optimized. Enabling any of these options could result in a longer route.
+On the right hand side of the transportation means button there is a :ref:`settings <sec-transportation-means>` icon. If you tap this icon you can fine tune the behavior of the transportation means. Depending on the settings the route will be optimized. Enabling any of these options could result in a longer route.
 
 If you plan a route with the transportation means 'Crow fly' or using a layer, you can do this without an internet connection. For the other ways of transportation an internet connection is required, because the routes are calculated externally. 
 
