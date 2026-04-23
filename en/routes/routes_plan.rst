@@ -44,9 +44,11 @@ Transportation means
 To plan a route, first verify the current transportation means in the overlay. In the example above, it is set to 'Walking'.
 By tapping 'Walking' a screen will appear in which you can change the transportation means to for example 'Bicycling', 'Car' or 'Crow fly (straight line)'.
 
-On the right hand side of the transportation means button there is a settings icon. If you tap this icon you can fine tune the behavior of the transportation means. For example for 'Walking' you can enable or disable the following options: Prefer more scenic roads, prefer paved roads, prefer unpaved roads, avoid hills, avoid stairs, and avoid ferries. Depending on the settings the route will be optimized. Enabling any of these options could result in a longer route.
+On the right hand side of the transportation means button there is a settings icon. If you tap this icon you can fine tune the behavior of the transportation means. For example for 'Walking'. Depending on the settings the route will be optimized. Enabling any of these options could result in a longer route.
 
 If you plan a route with the transportation means 'Crow fly' or using a layer, you can do this without an internet connection. For the other ways of transportation an internet connection is required, because the routes are calculated externally. 
+
+More information can be found in the section :ref:`Transportation Means <sec-transportation-means>`.
 
 Adding route points
 ~~~~~~~~~~~~~~~~~~~
