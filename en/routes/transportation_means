@@ -5,3 +5,76 @@ Transportation means
 
 To :ref:`plan <sec-route-plan>` or :ref:`generate <sec-route-generate>` a route you need to set the means of transportation. You can find the transportation means button in the bottom of the plan or route generation screen, or below the plan button in the point details screen.
 On the button the currently used transportation means is shown. Next to the transportation means button a settings button is displayed. This settings button can be used to fine-tune the behavior of a transportation means.
+Note that enabling any of the possible settings can increase the duration and/or length of the route.
+
+It is possible to mix the transportation means when planning a route. One can for example start with pedestrian, then plan a part with 'Crow fly' and then plan with 'Bicycle'.
+
+The following transportation means are settings supported:
+
+Walking
+--------
+This should used for planning a walking or hiking route. The route will respect roads suitable for pedestrians. An internet connection is necessary.
+In the settings you can set the following options:
+- Prefer more scenic roads: It will choose nicer roads when possible.
+- Prefer paved roads: It will try to use paved roads and avoid the unpaved roads.
+- Prefer unpaved roads: It will try to use the unpaved roads, and avoid the paved roads.
+- Prefer curved roads: It will prefer roads with curves.
+- Prefer rural areas: It will prefer rural areas if possible, and tries to avoid urban areas.
+- Prefer urban areas: It will prefer urban areas if possible, and tries to avoid rural areas.
+- Avoid cycle roads: It will avoid cycle roads, i.e. roads that need to be shared with bicyclists.
+- Avoid hills: It will prefer flat train.
+- Avoid stairs: It will avoid stairs.
+- Avoid ferries: It will avoid ferries. This might be useful if you want to avoid the risk of not able to cross a water because the ferry is not running.
+- Avoid tunnels: It will avoid tunnels. Might be useful if you do not prefer to walk through tunnels.
+
+Bicycle
+-------
+This should be used for planning a bicycle route. The route will respect roads suitable for bicycles. An internet connection is necessary.
+In the settings you can set the following options:
+- Prefer more scenic roads: It will choose nicer roads when possible.
+- Prefer bicycle roads: It will prefer bicycle roads if possible.
+- Prefer paved roads: It will try to use paved roads and avoid the unpaved roads.
+- Prefer unpaved roads: It will try to use the unpaved roads, and avoid the paved roads.
+- Prefer curved roads: It will prefer roads with curves.
+- Prefer rural areas: It will prefer rural areas if possible, and tries to avoid urban areas.
+- Prefer urban areas: It will prefer urban areas if possible, and tries to avoid rural areas.
+- Avoid hills: It will prefer flat train.
+- Avoid stairs: It will avoid stairs.
+- Avoid ferries: It will avoid ferries. This might be useful if you want to avoid the risk of not able to cross a water because the ferry is not running.
+- Avoid tunnels: It will avoid tunnels. Might be useful if you do not prefer to walk through tunnels.
+
+Racing bike
+-----------
+This should be used for planning a route for the racing bike. The route will respect roads suitable for fast bicycles. An internet connection is necessary.
+
+
+
+Mountainbike
+------------
+
+
+Horse
+-----
+
+
+Car
+---
+
+
+Car (avoid highways)
+--------------------
+
+
+
+Motorcycle
+----------
+
+
+Crow fly
+--------
+The crow fly transportation means can be used to plan the shortest line between points. An internet connection is not necessary.
+Using the crow fly it is possible to plan any route, even one that does not respect the roads.
+If you have purchased the height extension, also a height profile will be generated in specific countries.
+There are no possible fine-tune settings for the crow fly transportation means.
+
+
