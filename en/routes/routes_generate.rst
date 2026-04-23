@@ -22,7 +22,7 @@ The green point on the map is the start and end point of the route. By pressing 
 
 The slider in the bottom determines the desired length of the route. If you move the slider, a new route will be generated. The desired length is displayed on the right hand side of the slider. The desired and actual length, do not always match exactly. The actual length of the generated route is displayed above the slider. Next to the actual length, you see the total ascent of the route. If you tap it, you can view the :ref:`height profile <sec-route-profiles>` of the generated route.
 
-Below the slider there is the transportation means button. In the example above it is set to 'Pedestrian'. If you tap this button you can change the :ref:`transportation means <sec-transportation-means>` to for example 'Bicycle'. Next to the transportation means button there is a icon with sliders. If you tap this icon you can fine tune the behavior of the route generator. For example you could choose to prefer more scenic roads, or to avoid stairs or tunnels.
+Below the slider there is the transportation means button. In the example above it is set to 'Pedestrian'. If you tap this button you can change the :ref:`transportation means <sec-transportation-means>`. Next to the transportation means button there is a icon with sliders. If you tap this icon you can fine tune the behavior of the route generator.
 
 In the bottom there is the 'Generate' button. If you tap it, you will generate a new route. This can be useful if you want to generate another route, but you do not want to change the starting point or the desired length.
 
