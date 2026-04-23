@@ -1,6 +1,7 @@
 .. _sec-key-bindings:
 
 <APPLE>
+
 Key bindings
 ============
 On MacOS and iPadOS it is possible to control the app using the keyboard. Below the most important keyboard commands are listed.
@@ -29,4 +30,6 @@ Mac OS
 - Command-W: Close window or tab
 - Command-Z: Undo
 - Command-,: Settings
+
+
 </APPLE>
