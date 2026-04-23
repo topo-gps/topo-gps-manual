@@ -3,5 +3,5 @@
 Transportation means
 ====================
 
-To :ref:`plan <sec-plan>` or :ref:`generate <sec-generate>` a route you need to set the means of transportation. You can find the transportation means button in the bottom of the plan or route generation screen, or below the plan button in the point details screen.
+To :ref:`plan <sec-route-plan>` or :ref:`generate <sec-route-generate>` a route you need to set the means of transportation. You can find the transportation means button in the bottom of the plan or route generation screen, or below the plan button in the point details screen.
 On the button the currently used transportation means is shown. Next to the transportation means button a settings button is displayed. This settings button can be used to fine-tune the behavior of a transportation means.
