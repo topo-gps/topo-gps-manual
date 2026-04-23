@@ -4,7 +4,7 @@ Extending a route
 =================
 To extend a route, first go to the route details screen and tap :ref:`Edit > Edit route track <ss-route-edit>` in the bottom right of the screen.
 
-The route will be loaded in the route planner. Make sure that the transportation means is set correctly.
+The route will be loaded in the route planner. Make sure that the :ref:`transportation means <sec-transportation-means>` is set correctly.
 
 Extending route at end
 ----------------------
