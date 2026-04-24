@@ -2,8 +2,8 @@
 
 <APPLE>
 
-Key bindings
-============
+Keyboard shortcuts
+==================
 On MacOS and iPadOS it is possible to control the app using the keyboard. Below the most important keyboard commands are listed for MacOS and iPadOS.
 
 Mac OS
