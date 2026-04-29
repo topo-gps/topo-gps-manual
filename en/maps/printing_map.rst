@@ -53,9 +53,9 @@ In the print pop-up you can set the following options:
 - *Orientation*: You could choose to print the map in portrait or landscape orientation, or let the orientation be determined automatically.
 - *Map scale*: Here you could choose the map scale. If you choose for the option "automatically" the selected region will be scaled, so that it fits on the paper. If you choose a custom map scale, the map will be printed exactly to scale. For example if you choose "1:25,000", 1 cm on the printed map is 25,000 cm = 250 m in reality. A commonly used map scale allows you to read off and find coordinates on the printed map if you have added a :ref:`coordinates grid <sec-coordinate-grids>`. Sometimes the selected region will be too large to be fitted on one page, then the region will be splitted into multiple pages. If the number of generated pages will become too large, you need to choose a smaller map scale or a smaller region. The supported map scales are 1:100, 1:200, 1:500, 1:1000, 1:2000, 1:5000, 1:10,000, 1:15,000, 1:20,000, 1:25,000, 1:50,000, 1:100,000, 1:200,000, 1:250,000, 1:500,000. If you select the map scale, and you scroll down and tap 'More', you can also choose one of the less customary map scales, like 1:87, 1:125, 1:150, 1:250, 1:400, 1:625, 1:750, 1:800, 1:1250, 1:1500, 1:2500, 1:4000, 1:6000, 1:6250, 1:7500, 1:8000, 1:12,000 (1 inch = 1000 feet), 1:12,500, 1:15,840 (1 inch = 0.25 mile), 1:24,000 (1 inch = 2000 feet), 1:31,680 (1 inch = 0.5 mile), 1:40,000, 1:48,000 (1 inch = 4000 feet), 1:63,360 (1 inch = 1 mile), 1:75,000, 1:80,000 and 1:150,000.
 <APPLE>
-- *Pixel density*: Here you can choose the pixel density. A larger pixel density leads to a sharper map, but the file size also becomes larger, and maybe the pixel density might become too high for your printer. Typically 300 dpi or 600 dpi should be ok. You could experiment which this value.
+- *Pixel density*: Here you can choose the pixel density, in pixels per inch (ppi). A larger pixel density leads to a sharper map, but the file size also becomes larger, and maybe the pixel density might become too high for your printer. Typically 300 dpi or 600 dpi should be ok. You could experiment which this value to see what setting gives a sharper print. Possible values are 150 ppi, 254 ppi, 300 ppi, 508 ppi and 600 ppi.
 </APPLE>
-- *Fill paper*: If you enable this option, the paper will be completely filled with a map. If you disable this option, only the selected area will be printed. This could save some ink.
+- *Fill paper*: If you enable this toggle, the paper will be completely filled with a map. If you disable this option, only the selected area will be printed. This could save some ink.
 <APPLE>
 - *Margins*: Here you can set the paper margins (white space near edges). The margins are the same on top, bottom, left and right and can be choosen between 5 mm, 10 mm, 15 mm and 20 mm. On MacOS you can also set different margins for each edge.
 </APPLE>
@@ -67,7 +67,7 @@ If you have set the options in the print pop-up, tap 'Proceed' on the bottom rig
    :width: 320px
    :alt: Print pop-up Topo GPS
    
-   *The print dialog.*
+   *The system print dialog.*
 
 <APPLE>Before you start printing, it is *very important* to make sure that the paper size in the system print dialog is set to the same paper size used in the print pop-up. Otherwise parts of the maps could be missing, or the map will not be printed at the scale you intended. If you have verified this, you could press 'Print'. Or press the 'Export' icon to save the to be printed pages as a PDF.</APPLE>
 
