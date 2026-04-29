@@ -68,6 +68,7 @@ The printed map always contains a red arrow. This arrow points to the true geogr
 <APPLE>
 Creating a PDF
 --------------
-Sometimes printing a route or map might also be a convinient method for creating a PDF. Although it is possible to export a PDF from using the export pop-up, one can also choose to print the map or route. Then in print dialog, one could instead of 'Print' press the export icon. That allows one to create a PDF of the map or route.
+Sometimes printing a route or map might also be a convinient method for creating a PDF. First one can choose push the print button in the map selection pop-up, or export route pop-up. Then after setting the print options, in print dialog, one could instead of 'Print' press the export icon. That allows one to create a PDF of the map or route. This PDF is created using the exact map scale that one has set in the print options pop-up.
+</APPLE>
 
 
