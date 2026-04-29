@@ -15,11 +15,23 @@ Alternatively, if you want to print the area which is currently visible in the m
 If you want to display content on the printed map, like a route, points, or a layer, first load the contents on the main map. Then tap the print button. It might be also useful to add a :ref:`coordinates grid <sec-coordinate-grids>`, in order to be able to read off and find coordinates on the printed map with help of a map protractor.
 
 <APPLE>
+.. _ss-print-route:
+
 Printing a route
 ----------------
-To print a single route, first open the :ref:`route details screen <sec-route-details>` (tap on the route line). Then tap the export icon in the bottom bar to open the export-popup. Tap the print icon in the export pop-up on the bottom left. After tapping the print button the options dialog will appear, here you can for example set the map scale. More details you can find in the paragraph below.
+To print a single route, first open the :ref:`route details screen <sec-route-details>` (tap on the route line). Then tap the export icon in the bottom bar to open the export-popup, as shown in the figure below: 
+
+.. figure:: ../_static/route-print1.png
+   :height: 568px
+   :width: 320px
+   :alt: Route details - export popup, the print route button is on the bottom left of the pop-pup. 
+   
+   *The export pop-up that appears when exporting a single route. It contains a print button on the bottom left.*
+
+Tap the print icon in the export pop-up on the bottom left. After tapping the print button the options dialog will appear, here you can for example set the map scale. More details you can find in the paragraph below.
 
 If you print a route in this way, only the pages of the map that contain the route will be printed. This will save paper over printing the route directly from the main map.
+
 </APPLE>
 
 Print options pop-up
@@ -29,17 +41,17 @@ If the print button is pressed, in both cases a print pop-up appears, like in th
 .. figure:: ../_static/print-popup.png
    :height: 568px
    :width: 320px
-   :alt: Print pop-up Topo GPS
+   :alt: Print pop-up Topo GPS, it shows the print options: Paper size, paper orientation, map scale, pixel density, fill paper and margins
    
-   *The print pop-up.*
+   *The print pop-up, that shows the options that one can set for printing a map or route.*
 
 In the print pop-up you can set the following options:
 
 <APPLE>
-- *Paper format*: Here you can choose the paper format which is used by your printer.
+- *Paper format*: Here you can choose the paper format which is used by your printer. For example A4 or A3. Note that this paper size should normally be the same as in the iOS print dialog. Sometimes it is useful to choose a smaller size heree like A6. If one then in the iOS print dialog choose to print four A6 on a single A4 page, one can have four smaller maps on one page. This could be especially useful for printing a route into smaller maps.
 </APPLE>
 - *Orientation*: You could choose to print the map in portrait or landscape orientation, or let the orientation be determined automatically.
-- *Map scale*: Here you could choose the map scale. If you choose for the option "automatically" the selected region will be scaled, so that it fits on the paper. If you choose a custom map scale, the map will be printed exactly to scale. For example if you choose "1:25,000", 1 cm on the printed map is 25,000 cm = 250 m in reality. A commonly used map scale allows you to read off and find coordinates on the printed map if you have added a :ref:`coordinates grid <sec-coordinate-grids>`. Sometimes the selected region will be too large to be fitted on one page, then the region will be splitted into multiple pages. If the number of generated pages will become too large, you need to choose a smaller map scale or a smaller region.
+- *Map scale*: Here you could choose the map scale. If you choose for the option "automatically" the selected region will be scaled, so that it fits on the paper. If you choose a custom map scale, the map will be printed exactly to scale. For example if you choose "1:25,000", 1 cm on the printed map is 25,000 cm = 250 m in reality. A commonly used map scale allows you to read off and find coordinates on the printed map if you have added a :ref:`coordinates grid <sec-coordinate-grids>`. Sometimes the selected region will be too large to be fitted on one page, then the region will be splitted into multiple pages. If the number of generated pages will become too large, you need to choose a smaller map scale or a smaller region. All commonly used map scales from 1:87 to 1:10,000,000 are available.
 <APPLE>
 - *Pixel density*: Here you can choose the pixel density. A larger pixel density leads to a sharper map, but the file size also becomes larger, and maybe the pixel density might become too high for your printer. Typically 300 dpi or 600 dpi should be ok. You could experiment which this value.
 </APPLE>
