@@ -45,7 +45,7 @@ As an example we now will enter the WGS84 coordinates '51.56321 -4.28942':
    :width: 320px
    :alt: Entering coordinates Topo GPS
 
-   *Entering the coordinates 51.56321 -4.28942.
+   *Entering the coordinates 51.56321 -4.28942.*
    
 Optionally you can enter a title. As long as we do not enter a title, the suggested placeholder title will be used as a title for the waypoint. Next you could set the :ref:`icon <ss-waypoint-icons>` and enter a description.
 
