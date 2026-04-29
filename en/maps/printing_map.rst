@@ -5,6 +5,8 @@ Printing maps
 
 If you plan to make an outdoor trip, it could be advisable to print a map of the surroundings. So that you can find your way, even in the case your device breaks down. If you do not want to get distracted by your phone, it might also be enjoyable to make a trip using a printed map. Following a trip with a printed map can also help to improve your navigational skills. It is easy to add remarks on a printed map with a pencil. And if you need a very high level of privacy, you could do all planning first, print a map of the route and points, and leave your smartphone at home.
 
+Printing from the main map
+--------------------------
 To print a map, first :ref:`select the part of the map <ss-map-select>` that needs to be printed. You can do this by pressing long with two fingers simultaneously on the map.
 Moving the fingers can change the selection. If you release your fingers, tap 'Print' in the pop-up. Sometimes it could be useful to first :ref:`rotate the map <ss-map-rotate>`, before making a selection.
 
@@ -12,6 +14,16 @@ Alternatively, if you want to print the area which is currently visible in the m
 
 If you want to display content on the printed map, like a route, points, or a layer, first load the contents on the main map. Then tap the print button. It might be also useful to add a :ref:`coordinates grid <sec-coordinate-grids>`, in order to be able to read off and find coordinates on the printed map with help of a map protractor.
 
+<APPLE>
+Printing a route
+----------------
+To print a single route, first open the :ref:`route details screen <sec-route-details>` (tap on the route line). Then tap the export icon in the bottom bar to open the export-popup. Tap the print icon in the export pop-up on the bottom left. After tapping the print button the options dialog will appear, here you can for example set the map scale. More details you can find in the paragraph below.
+
+If you print a route in this way, only the pages of the map that contain the route will be printed. This will save paper over printing the route directly from the main map.
+</APPLE>
+
+Print options pop-up
+--------------------
 If the print button is pressed, in both cases a print pop-up appears, like in the figure below:
 
 .. figure:: ../_static/print-popup.png
@@ -53,5 +65,9 @@ Sometimes a map may not be printed due to copyright reasons. In that case the pr
 
 The printed map always contains a red arrow. This arrow points to the true geographic north. This differs from the magnetic north to which a magnetic compass is pointing.
 
+<APPLE>
+Creating a PDF
+--------------
+Sometimes printing a route or map might also be a convinient method for creating a PDF. Although it is possible to export a PDF from using the export pop-up, one can also choose to print the map or route. Then in print dialog, one could instead of 'Print' press the export icon. That allows one to create a PDF of the map or route.
 
 
