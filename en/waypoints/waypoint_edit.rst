@@ -14,7 +14,7 @@ If you press this button an edit pop-up will appear like in the figure below:
 
 The pop-up shows five possibilities to modify the waypoint.
 
-- *Change icon*: Allows you to :ref:`change the icon of the waypoint <ss-waypoint-change-icon>`.
+- *Change icon*: Allows you to :ref:`change the icon of the waypoint <ss-waypoint-edit-change-icon>`.
 - *Move on map*: Allows you to :ref:`move the waypoint on the map <ss-waypoint-edit-map>`.
 - *Edit coordinates*: Allows you to :ref:`edit the coordinates <ss-waypoint-edit-coordinates>` of a waypoint.
 - *Edit photos*: Allows you to :ref:`edit the photos <ss-waypoint-edit-photos>` of a waypoint.
@@ -96,7 +96,7 @@ can move the location of the waypoint manually on a map. You have to press long 
 To save the new location of the waypoint you have to press ‘Save’ in the top right of the screen. Otherwise press ‘Cancel’.
 
 
-.. _ss-waypoint-change-icon:
+.. _ss-waypoint-edit-change-icon:
 
 Change icon
 ~~~~~~~~~~~
