@@ -1,3 +1,4 @@
+<APPLE>
 .. _sec-settings-single-tap-zoom:
 
 Single tap zoom in/out
@@ -13,6 +14,4 @@ You can choose between the following options:
 - *Left / Right* - Tapping on the left is zooming in, tapping on the right is zooming out.
 - *Right / Left* - Tapping on the right is zooming in, tapping on the left is zooming out.
 
-
-
-
+</APPLE>
