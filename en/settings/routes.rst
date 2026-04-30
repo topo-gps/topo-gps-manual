@@ -37,7 +37,6 @@ Route course markers are markers that appear on the route on regular intervals t
 
 Spoken instructions
 ~~~~~~~~~~~~~~~~~~~
-If you have loaded a node network on the map, and you have loaded a route along these nodes on the map, the nodes will appear on the dashboard.
-If you enable 'Spoken instructions' and you are near the next node, a voice will tell you the node you are nearing and the upcoming node. The screen should be switched on for this to work, therefore this is only useful in combination with :ref:`disabling the automatic screen lock <sec-settings-switching-off-display>`.
+If you have loaded a node network like the bicycle node network, or the hiking node network, on the map, and you have loaded a route along these nodes on the map, the nodes will appear on the dashboard. If you enable 'Spoken instructions' and you are near the next node, a voice will tell you the node you are nearing and the upcoming node. The screen should be switched on for this to work, therefore this is only useful in combination with :ref:`disabling the automatic screen lock <sec-settings-switching-off-display>`.
 
 
