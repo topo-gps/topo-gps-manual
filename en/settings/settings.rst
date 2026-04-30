@@ -30,6 +30,7 @@ The settings screen contains the following sections:
    <APPLE>
    single_tap_zoom
    </APPLE>
+   notifications
    search_results
    addresses
    camera
