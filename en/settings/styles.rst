@@ -39,14 +39,13 @@ As an example we now show below the screen in which you can change the line prop
 
 You can change the color using the Red/Green/Blue slider. It is also possible to change the color using a color picker by tapping 'Choose color' below the sliders. The transparancy slider determines how transparant the line is. A bit transparancy allows you to see the map behind the route line.
 
-It is also possible to set the line style of an individual route. This can be done via :ref:`route details > edit route <ss-route-edit>`. Also in the saved routes screen you can select a number of routes and tap 'More > Edit line style' to change the line style of a collection of routes.
-
+It is also possible to set the line style of an individual route. This can be done via :ref:`route details > edit route <ss-route-edit>`. Tap 'Edit line style' in the pop-up that appears and disable 'Use default linestyle'. To change the line style of a set of routes at once, first go to the saved routes screen (Menu > Routes > Saved routes). Then tap More > Select and select the routes and/or folders. Then tap 'More > Edit line style' in the <APPLE>bottom left</APPLE><ANDROID>top right</ANDROID> to change the line style of the selected routes.
 
 .. _ss-settings-posmarker:
 
 Position marker
 ~~~~~~~~~~~~~~~
-The default position marker has a red color. For visibility it might be better to change the color of the position marker sometimes. Tap the position marker in the 'Styles' section of the :ref:`settings <ss-settings>`. A screen with available alternative position markers will be shown. If you tap a position marker it will be changed. 
+The default position marker has a red color. For visibility it might be better to change the color of the position marker sometimes. Tap the position marker in the 'Styles' section of the :ref:`settings <ss-settings>`. A screen with available alternative position markers will be shown. You can choose between a red, purple, blue, green or yellow position marker. If you tap a position marker it will be changed. 
 
 Below you see an example of a map with a purple position marker:
 
