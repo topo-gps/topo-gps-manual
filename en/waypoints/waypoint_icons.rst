@@ -58,16 +58,16 @@ Using the tab selector in the top of the new icon screen you can choose between 
 
 If you choose a normal icon you can change the following properties.
 
-- *Shape*: Tap on one of the shown shapes to change the shape. Scroll to the right or tap '>' to view more shapes.
+- *Shape*: Tap on one of the shown shapes to change the shape. Scroll to the right or tap '>' to view more shapes. Possible shapes are: circle, ellipse, triangle, square, rectangle, rhombus, pentagon, hexagon, star, badge, and milestone. 
 - *Fill color*: Tap a fill color to change the fill color. Scroll to the right or tap '>' to choose from more colors.  If you tap '>' you can also set the opacity of the fill color.
 - *Edge color*: Tap a edge color to change the edge color. Scroll to the right or tap '>' to choose from more colors.
 - *Symbol*: Tap a symbol to choose a symbol or none. Scroll to the right or tap '>' for more symbols. 
-- *Size*: Tap the desired size.
-- *Inscription*: If you enter a inscription in the inscription field, a inscription (for example an 'A') will be shown in the middle of the icon. The color of the inscription is the same as the edge color if the contrast with the fill color is large enough. If not, it is either white or black, depending on which color gives the most contrast with the fill color. You cannot combine an inscription with a symbol.
+- *Size*: Tap the desired size, you can choose between small, normal, large and extra large.
+- *Inscription*: If you enter one or more characters in the inscription field, an inscription (for example an 'A') will be shown in the middle of the icon. The color of the inscription is the same as the edge color if the contrast with the fill color is large enough. If not, it is either white or black, depending on which color gives the most contrast with the fill color. You cannot combine an inscription with a symbol. You can also use an emoji as an inscription, if you switch the keyboard to emoji symbols.
 
 The currently selected icon has a grey background.
 
-If you select the emjoi tab to create an emoji icon you can choose the emoji from a list of emojis. You can scroll down to view more. It is possible to set the size of the emoji icon by tapping the desired size.
+If you select the emjoi tab to create an emoji icon you can choose the emoji from a list of emojis. You can scroll down to view more. It is possible to set the size of the emoji icon by tapping the desired size. The icon then only is an emoji, without a border or background.
 
 After you have the set the icon properties, you can give the icon a name and a description. The name and description will be shown in the waypoint icons screen and also in the waypoint details screen of waypoints using that icon.
 
