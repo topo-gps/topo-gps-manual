@@ -10,7 +10,7 @@ To export a single route, open the :ref:`route details screen <sec-route-details
 To export a single route, open the :ref:`route details screen <sec-route-details>` and tap the share icon in the top of the screen.
 </ANDROID>
 
-To export multiple routes, first open the :ref:`routes screen <sec-routes-screen>` via Menu > Routes > Saved routes. Then open the :ref:`route selection screen <sec-routes-select>` by tapping More > Select. Or press long on on a route to open the selection mode. 
+To export multiple routes, first open the :ref:`routes screen <sec-routes-popup>` via Menu > Routes > Saved routes. Then open the :ref:`route selection screen <sec-routes-select>` by tapping More > Select. Or press long on on a route to open the selection mode. 
 <APPLE>
 Select the desired routes and folders and tap the export icon in the bottom toolbar.
 After pressing the export icon the export pop-up will appear, an example is shown below:
