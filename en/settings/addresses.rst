@@ -2,17 +2,11 @@
 
 Addresses
 =========
+In the Addresses section of the :ref:`settings <ss-settings>`, you can choose whether the app automatically looks up the addresses of specific points.
 
-In the section 'Addresses' of the :ref:`settings <ss-settings>` you can determine whether addresses of points are looked up automatically.
+When the 'Find automatically' setting is enabled, Topo GPS will fetch location addresses to provide a precise address for your waypoints and your current position. Please note that an active internet connection is required to use this feature.
 
-If you enable the setting 'Find automatically' addresses of locations can be looked up if necessary. To find the address of a location you need an internet connection.<APPLE>
-The Topo GPS app is using the `MKReverseGeocodingRequest service from Apple <https://developer.apple.com/documentation/mapkit/mkreversegeocodingrequest>`_ for this.
-</APPLE>
-<ANDROID>
-The Topo GPS app is using the `Android Geocode <https://developer.android.com/reference/android/location/Geocoder>`_ for this.
-</ANDROID>
+Once retrieved, addresses are displayed on the :ref:`waypoint details screen <ss-waypoint-details>` and the :ref:`current location screen <ss-current-location-screen>`.
 
-Addresses are used in the :ref:`waypoint details screen <ss-waypoint-details>` and in the :ref:`current location screen <ss-current-location-screen>` to show the address of a waypoint and of your current location.
-
-If you want a high level of privacy, you might want to disable this feature, in order to prevent network requests containing your location or the location of your points.
+*Privacy Note*: For a higher level of privacy, you may prefer to keep this feature disabled. Doing so prevents the app from making any network requests that contain your current location or the locations of your saved points.
 
