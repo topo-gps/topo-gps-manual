@@ -4,7 +4,7 @@ Addresses
 =========
 In the Addresses section of the :ref:`settings <ss-settings>`, you can choose whether the app automatically looks up the addresses of specific points.
 
-When the 'Find automatically' setting is enabled, Topo GPS will fetch location addresses to provide a precise address for your waypoints and your current position. Please note that an active internet connection is required to use this feature.
+When the 'Find automatically' setting is enabled, Topo GPS will fetch location addresses to provide a precise address for your points and your current position. Please note that an active internet connection is required to use this feature.
 
 Once retrieved, addresses are displayed on the :ref:`waypoint details screen <ss-waypoint-details>` and the :ref:`current location screen <ss-current-location-screen>`.
 
