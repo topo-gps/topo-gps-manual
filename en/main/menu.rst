@@ -17,7 +17,7 @@ The menu then appears as in the screen below.
 
 The menu contains the following items:
 
-- :ref:`Maps <sec-change-map>` - If you tap this item, the maps popup will be opened. In the maps popup you can :ref:`change the current map <sec-change-map>` and :ref:`Export the contents of the current visible map <sec-export-visible-map>`. 
+- :ref:`Maps <sec-change-map>` - If you tap this item, the maps popup will be opened. In the maps popup you can :ref:`change the current map <sec-change-map>` and :ref:`Export the contents of the current visible map <sec-exporting-visible-map>`. 
 - :ref:`Layers <sec-layers>` - If you tap this item, the layers screen will be opened. In this screen you can add layers to the map like for example the long distance bicycle route layer.
 - :ref:`Waypoints <sec-wp>` - If you tap this item, the waypoints screen will be opened. Here you can do everything with waypoints like loading them on the map.
 - Search - If you tap this item the search popup will be shown. Here you can :ref:`search addresses and places <sec-search-addresses>` and :ref:`enter <sec-entering-coordinates>` and :ref:`scan <sec-scanning-coordinates>` coordinates.
