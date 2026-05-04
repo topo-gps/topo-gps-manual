@@ -3,7 +3,7 @@
 Height extension
 ================
 
-It is possible to extend Topo GPS with the 'Height extension'. This addition allows you to do the following:
+It is possible to extend Topo GPS with the height extension. This addition allows you to do the following:
 
 - :ref:`Displaying the terrain height (elevation) <ss-height-extension-display-height>` on the coordinates panel of the dashboard.
 - Generate :ref:`quick height profiles <ss-quick-height-profiles>` with the map ruler.
@@ -20,9 +20,9 @@ The 'Height extension' is a paid addition and currently only available for Germa
 
 .. _ss-height-extension-purchase:
 
-Purchasing Height extension
+Purchasing height extension
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To purchase the Height extension, zoom the map to one of the regions in which the height extension is available. Then slide the dashboard twice to the left to show the :ref:`coordinates panel <ss-coordinate-panel>`. Then tap on the coordinates panel and choose 'Show height' in the pop-up that appears. Then the purchase screen will appear.
+To purchase the height extension, zoom the map to one of the regions in which the height extension is available. Then slide the dashboard twice to the left to show the :ref:`coordinates panel <ss-coordinate-panel>`. Then tap on the coordinates panel and choose 'Show height' in the pop-up that appears. Then the purchase screen will appear.
 
 
 .. _ss-height-extension-display-height:
@@ -75,7 +75,7 @@ If you tap the percentage icon next to the profile, a slope profile is generated
 
 Height profiles for routes planned using 'Crow fly'
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you did not :ref:`activate the height extension <ss-height-extension-purchase>`, routes planned using the transportation mode 'Crow fly' will not have a height profile. Purchasing the height extension ensures that the :ref:`routes planned <sec-route-plan>` using the transportation means 'Crow fly' automatically get a height profile once the route lies in the :ref:`covered region of the Height extension <ss-height-extension-coverage>`. An example is shown in the figure below:
+If you did not :ref:`activate the height extension <ss-height-extension-purchase>`, routes planned using the transportation mode crow fly will not have a height profile. Purchasing the height extension ensures that the :ref:`routes planned <sec-route-plan>` using the transportation means 'Crow fly' automatically get a height profile once the route lies in the :ref:`covered region of the Height extension <ss-height-extension-coverage>`. An example is shown in the figure below:
 
 .. figure:: ../_static/he-5.png
    :height: 568px
@@ -116,7 +116,7 @@ Especially when you are in the air, it might be of interest to get an estimate o
 If you have recorded a route, you can view the height above ground profile in the route details screen. If the route is aerial, the height above ground profile is already listed below the terrain height profile. If not you can tap on the height profile to view the profile details, and then in the top of the screen, you can switch the profile view to height above ground.
 
 
-Technical details of the Height extension
+Technical details of the height extension
 -----------------------------------------
 Downloading
 ~~~~~~~~~~~
