@@ -7,7 +7,7 @@ It is possible to extend Topo GPS with the height extension. This addition allow
 
 - :ref:`Displaying the terrain height (elevation) <ss-height-extension-display-height>` on the coordinates panel of the dashboard.
 - Generate :ref:`quick height profiles <ss-quick-height-profiles>` with the map ruler.
-- Generate :ref:`height profiles for routes planned with the transportation mode 'Crow fly' <ss-height-profile-crow-fly>`.
+- Generate :ref:`height profiles for routes planned with the transportation means crow fly <ss-height-profile-crow-fly>`.
 - Generate :ref:`more accurate height profiles <ss-height-profile-more-accurate>` for all planned routes.
 - Generate height profiles for :ref:`routes that lack a height profile <ss-height-profile-lack>`.
 - Show :ref:`height above ground <ss-height-above-ground>` and height above ground profiles.
