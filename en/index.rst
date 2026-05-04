@@ -7,7 +7,7 @@ Topo GPS manual iOS
 ===================
 
 The manual of the topographic maps navigation app `Topo GPS <https://www.topo-gps.com>`_ for iPhone, iPad, Apple Watch and MacOS.
-The complete manual can also be downloaded in `PDF format <https://www.topo-gps.com/ios/en/manual/latex/TopoGPSManual.pdf>`_.
+The complete manual can also be downloaded in `PDF format <https://cdn.topo-gps.com/manual/ios/en/TopoGPSManual.pdf>`_.
 
 The Topo GPS app can be installed for free from the `Apple AppStore <https://apps.apple.com/gb/app/topo-gps/id578960575?mt=8>`_ 
 and `Google Play store <https://play.google.com/store/apps/details?id=uk.rdzl.topo.gps>`_.
@@ -23,7 +23,7 @@ Topo GPS manual Android
 ========================
 
 The manual of the topographic maps navigation app `Topo GPS <https://www.topo-gps.com/>`_ for Android.
-The complete manual can also be downloaded in `PDF format <https://www.topo-gps.com/android/en/manual/latex/TopoGPSManual.pdf>`_.
+The complete manual can also be downloaded in `PDF format <https://cdn.topo-gps.com/manual/android/en/TopoGPSManual.pdf>`_.
 
 The Topo GPS app can be installed for free from the `Apple AppStore <https://apps.apple.com/gb/app/topo-gps/id578960575?mt=8>`_ 
 and `Google Play store <https://play.google.com/store/apps/details?id=uk.rdzl.topo.gps>`_.
