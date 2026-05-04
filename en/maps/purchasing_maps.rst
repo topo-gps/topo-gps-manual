@@ -25,7 +25,7 @@ The differences between the map purchases are due to licensing and royalty const
 
 The sales of the maps and layers is our only source of income. It is not possible to create an account in Topo GPS. We do not know your idenity. We do not collect any of your data. We do not sell any of your data. We do not show advertisements. With the money we earn by selling maps and layers we fund the development and maintenance of Topo GPS, we pay for the server infrastructure and data transfer, and we pay the delivery fees and royalties of certain maps.
 
-It is not possible to share your purchases with Android. This is because we need money to fund the development and maintenance of the Android app as well. Also we do not want to spend our time creating a complicated purchases transfer system. Rather we want to develop new useful features for our users.
+It is not possible to share your purchases on Apple with Android and vice versa. This is because we need money to fund the development and maintenance of the Android app as well. Also we do not want to spend our time creating a complicated purchases transfer system. Rather we want to develop new useful features for our users.
 
 Purchasing full maps
 --------------------
@@ -41,8 +41,7 @@ The information screen of map of Switzerland will be opened:
 
 In the information screen of the map of Switzerland, you see a preview map on the top. You can scroll and zoom this map to see if this map suits your needs. You can get a small tour through the map by tapping the 'Tour' button in the bottom toolbar. You can also tap 'Try map'. Then the map will be loaded in the main screen for free. The free trial map will however be less sharp when zoomed in far than a purchased map.
 
-Below the map, you find information about the purchase. If you tap the purchase button with the price a purchase will be initiated. You will be asked by the AppStore to confirm the purchase, and once confirmed you will be return to the main screen and the newly purchased map will be opened:
-
+Below the map, you find information about the purchase. If you tap the purchase button with the price a purchase will be initiated. You will be asked by <APPLE>the AppStore</APPLE><ANDROID>Google Play</ANDROID> to confirm the purchase, and once confirmed you will be return to the main screen and the newly purchased map will be opened:
 
 .. figure:: ../_static/map-purchase-ch2.jpg
    :height: 568px
@@ -62,7 +61,7 @@ You can zoom in on the purchased map to see it in more detail as in the figure b
 
 If you go back to the maps screen (:ref:`Menu <sec-menu>` > Maps) you will see that the map of Switzerland has now moved to the section 'Purchases'.
 
-The purchased maps are available on all devices that use the same Apple ID on which the purchase was made. If you have enabled family sharing, the purchased maps are also available to your family members. Sometimes you need to tap 'Restore previous purchases' in the bottom of the map screen (:ref:`Menu <sec-menu>` > Maps) to make these purchases available.
+The purchased maps are available on all devices that use the same <APPLE>Apple ID</APPLE><ANDROID>Google Play account</ANDROID> on which the purchase was made. <APPLE>If you have enabled family sharing, the purchased maps are also available to your family members. Sometimes you need to tap 'Restore previous purchases' in the bottom of the map screen (:ref:`Menu <sec-menu>` > Maps) to make these purchases available.</APPLE>
 
 
 
@@ -126,8 +125,12 @@ If you tap 'Confirm' in the AppStore pop-up the selected area will be purchased.
 After purchasing an area, all map tiles of the purchased area will be downloaded automatically, so that they are offline accessible. 
 Tiles of areas that are not purchased, cannot be made offline accessible. Therefore you can only get Offline accessible to 100% if you zoom in to an area that is fully bought.
 
+<APPLE>
 The purchases of parts of maps are synchronized with other devices via iCloud. You need to enable the iOS settings Account > iCloud > iCloud Drive > Topo GPS on your devices to see the purchases on your other devices.
-
+</APPLE>
+<ANDROID>
+The purchases of parts of maps are synchronized with other devices. You might need to tap Menu > Maps > info button (i) > Synchronize purchases > Synchronize.
+</ANDROID>
 
 Purchasing subscriptions
 ------------------------
