@@ -3,7 +3,7 @@
 Height extension
 ================
 
-It is possible to extend Topo GPS with the height extension. This extension allows you to do the following:
+It is possible to extend Topo GPS with the 'Height extension'. This addition allows you to do the following:
 
 - :ref:`Displaying the terrain height (elevation) <ss-height-extension-display-height>` on the coordinates panel of the dashboard.
 - Generate :ref:`quick height profiles <ss-quick-height-profiles>` with the map ruler.
@@ -16,13 +16,13 @@ It is possible to extend Topo GPS with the height extension. This extension allo
 
 Coverage
 ~~~~~~~~
-The height extension is a paid extension and currently only available for Germany, England, Wales, France, Switzerland, Austria, The Netherlands, Belgium, and Luxembourg. In the future we will add more regions. If you purchase the height extension now, you will also get access to the regions that will be added in the future. 
+The 'Height extension' is a paid addition and currently only available for Germany, England, Wales, France, Switzerland, Austria, The Netherlands, Belgium, and Luxembourg. In the future we will add more regions. If you purchase the 'Height extension' now, you will also get access to the regions that will be added in the future. 
 
 .. _ss-height-extension-purchase:
 
-Purchasing height extension
+Purchasing Height extension
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To purchase the height extension, zoom the map to one of the regions in which the height extension is available. Then slide the dashboard twice to the left to show the :ref:`coordinates panel <ss-coordinate-panel>`. Then tap on the coordinates panel and choose 'Show height' in the pop-up that appears. Then the purchase screen will appear.
+To purchase the Height extension, zoom the map to one of the regions in which the height extension is available. Then slide the dashboard twice to the left to show the :ref:`coordinates panel <ss-coordinate-panel>`. Then tap on the coordinates panel and choose 'Show height' in the pop-up that appears. Then the purchase screen will appear.
 
 
 .. _ss-height-extension-display-height:
@@ -38,7 +38,7 @@ To display the terrain height in meters above sea level of a certain point, you 
    
    *The terrain height is shown next to the coordinates on the dashboard.*
 
-You can tap on the height to view details about the source, the vertical reference, and the accuracy. You have to zoom in the map far enough in a :ref:`region in which the height extension is available <ss-height-extension-coverage>` to view the terrain height.
+You can tap on the height to view details about the source, the vertical reference, and the accuracy. You have to zoom in the map far enough in a :ref:`region in which the Height extension is available <ss-height-extension-coverage>` to view the terrain height.
 
 If you tap on the position marker, you can view the terrain height of your current position.
 
@@ -75,7 +75,7 @@ If you tap the percentage icon next to the profile, a slope profile is generated
 
 Height profiles for routes planned using 'Crow fly'
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you did not :ref:`activate the height extension <ss-height-extension-purchase>`, routes planned using the transportation mode 'crow fly' will not have a height profile. Purchasing the height extension ensures that the :ref:`routes planned <sec-route-plan>` using the transportation means 'crow fly' automatically get a height profile once the route lies in the :ref:`covered region of the height extension <ss-height-extension-coverage>`. An example is shown in the figure below:
+If you did not :ref:`activate the height extension <ss-height-extension-purchase>`, routes planned using the transportation mode 'Crow fly' will not have a height profile. Purchasing the height extension ensures that the :ref:`routes planned <sec-route-plan>` using the transportation means 'Crow fly' automatically get a height profile once the route lies in the :ref:`covered region of the Height extension <ss-height-extension-coverage>`. An example is shown in the figure below:
 
 .. figure:: ../_static/he-5.png
    :height: 568px
@@ -84,7 +84,7 @@ If you did not :ref:`activate the height extension <ss-height-extension-purchase
    
    *With the height extension, crow fly planned routes will get a height profile.*
 
-In the example, a crow fly route is planned. In the bottom the total ascent along the route is displayed. If you tap the total ascent the height profile will be displayed.
+In the example, a Crow fly route is planned. In the bottom the total ascent along the route is displayed. If you tap the total ascent the height profile will be displayed.
 
 
 .. _ss-height-profile-more-accurate:
@@ -116,8 +116,8 @@ Especially when you are in the air, it might be of interest to get an estimate o
 If you have recorded a route, you can view the height above ground profile in the route details screen. If the route is aerial, the height above ground profile is already listed below the terrain height profile. If not you can tap on the height profile to view the profile details, and then in the top of the screen, you can switch the profile view to height above ground.
 
 
-Technical details of the height extension
-=========================================
+Technical details of the Height extension
+-----------------------------------------
 Downloading
 ~~~~~~~~~~~
 The height information is stored in tiles which have a size of 4 km x 4 km. These tiles have to be downloaded from our server and will be stored on your device. You can download the height information of a particular region by tapping 'Offline accessible' on the top left of the screen to open the map download screen. Then scroll down to the bottom to the section 'Height models'. Here you can tap 'Download' to download the height models for the currently visible region. You can also remove height models to reclaim storage space.
@@ -137,4 +137,4 @@ The heights in the height extension are obtained from digital terrain models. Th
 
 Privacy
 ~~~~~~~
-To determine a height using the height extension, first the necessary height tile of 4 km x 4 km is determined. If the tile is not stored on your device, it is automatically downloaded from our server. Then the height is determined from this height tile on your device. Never will any coordinates be send to our server. The height extension is very privacy friendly, we cannot in anyway view the positions of your points or routes, if you determine a height or a height profile. 
+To determine a height using the Height extension, first the necessary height tile of 4 km x 4 km is determined. If the tile is not stored on your device, it is automatically downloaded from our server. Then the height is determined from this height tile on your device. Never will any coordinates be send to our server. The height extension is very privacy friendly, we cannot in anyway view the positions of your points or routes, if you determine a height or a height profile. 
