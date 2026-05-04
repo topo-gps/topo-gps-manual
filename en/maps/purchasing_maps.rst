@@ -146,13 +146,17 @@ To purchase a subscription, first open the maps screen via :ref:`Menu <sec-menu>
 In the subscription section, you can read the conditions of the subscription. If you press the buy button you are asked to confirm the purchase. Once confirmed, 
 you will return to the main screen and the whole map is accessible. 
 
-Subscriptions are accessible on all devices that use the same Apple ID. Subscriptions cannot be shared via family sharing. To enable a subscription on another device, you might need to tap :ref:`Menu <sec-menu>` > Maps > Restore previous purchases.
+<APPLE>Subscriptions are accessible on all devices that use the same Apple account.</APPLE> 
+<ANDORID>Subscriptions are accessible on all devices that use the same Google Play account.</ANDROID>
+Subscriptions cannot be shared via family sharing. To enable a subscription on another device, you might need to tap :ref:`Menu <sec-menu>` > Maps > Restore previous purchases.
 
 Cancel subscriptions
 ~~~~~~~~~~~~~~~~~~~~
-To cancel a subscription, go to  :ref:`Menu <sec-menu>` > Maps. Then tap the info button (i) next to a map on which you are subscribed. Scroll down to the subscription section. Then tap 'Cancel subscription'. You will be brought to an AppStore page on which you can manage your subscription, and also cancel them.
-If you cancel a subscription, the map will remain accessible until the end of the current subscription period.
+To cancel a subscription, go to  :ref:`Menu <sec-menu>` > Maps. Then tap the info button (i) next to a map on which you are subscribed. Scroll down to the subscription section. Then tap 'Cancel subscription'. You will be brought to an <APPLE>AppStore</APPLE><ANDROID>Google Play</ANDROID> page on which you can manage your subscription, and also cancel them. If you cancel a subscription, the map will remain accessible until the end of the current subscription period.
 
+Alternatively, you can also directly go to the <APPLE>AppStore</APPLE><ANDROID>Google Play</ANDROID> app. Here tap on the top right for account, and then choose 'Subscriptions'. Find the active Topo GPS subscriptions and cancel them if necessary.
+
+Remember most of the map purchases are one-time only, we only sell subscriptions for the maps of Great Britain, France and Belgium.
 
 Mobile device management 
 ~~~~~~~~~~~~~~~~~~~~~~~~
