@@ -73,7 +73,7 @@ If you tap the percentage icon next to the profile, a slope profile is generated
 
 .. _ss-height-profile-crow-fly:
 
-Height profiles for routes planned using 'Crow fly'
+Height profiles for routes planned using crow fly
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 If you did not :ref:`activate the height extension <ss-height-extension-purchase>`, routes planned using the transportation mode crow fly will not have a height profile. Purchasing the height extension ensures that the :ref:`routes planned <sec-route-plan>` using the transportation means 'Crow fly' automatically get a height profile once the route lies in the :ref:`covered region of the Height extension <ss-height-extension-coverage>`. An example is shown in the figure below:
 
@@ -117,9 +117,10 @@ If you have recorded a route, you can view the height above ground profile in th
 
 
 Technical details of the height extension
------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Downloading
-~~~~~~~~~~~
+-----------
 The height information is stored in tiles which have a size of 4 km x 4 km. These tiles have to be downloaded from our server and will be stored on your device. You can download the height information of a particular region by tapping 'Offline accessible' on the top left of the screen to open the map download screen. Then scroll down to the bottom to the section 'Height models'. Here you can tap 'Download' to download the height models for the currently visible region. You can also remove height models to reclaim storage space.
 
 .. figure:: ../_static/he-4.png
@@ -132,9 +133,9 @@ The height information is stored in tiles which have a size of 4 km x 4 km. Thes
 If you have made the height models offline accessible, you can view heights and generate profiles without an internet connection. You can test this by putting your device temporarily to airplane mode with wifi disabled.
 
 Accuracy
-~~~~~~~~
+--------
 The heights in the height extension are obtained from digital terrain models. These are very accurate big datasets, where heights are determined typically every 1 m using a laser from an aircraft. In the original dataset heights are accurate to in about 0.1 m. We have however reduced the accuracy a bit in a sophisticated way, to obtain a data size that is managable for an app. Our claimed accuracy is: 95% of the heights differ less than 0.5 m from the original measurement. This is a perfect accuracy for outdoor activities, not every bump is noticable, but small embankments are.
 
 Privacy
-~~~~~~~
+-------
 To determine a height using the Height extension, first the necessary height tile of 4 km x 4 km is determined. If the tile is not stored on your device, it is automatically downloaded from our server. Then the height is determined from this height tile on your device. Never will any coordinates be send to our server. The height extension is very privacy friendly, we cannot in anyway view the positions of your points or routes, if you determine a height or a height profile. 
