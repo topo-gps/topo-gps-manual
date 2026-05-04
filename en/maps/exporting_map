@@ -12,4 +12,4 @@ If you export a map you can set the 'Annotate map' switch to be able to draw ann
 </APPLE>
 Finally you can tap the 'Export' button in the bottom of the pop-up to export the items. A share sheet will appear in which you can choose to send the exported items.
 
-An alternative of exporting the visible map is :ref:'selecting a part of the map <>', and then tap the 'Export' button. This allows you to more easily determine the area of objects you want to export.
+An alternative of exporting the visible map is :ref:'selecting a part of the map <ss-map-select>', and then tap the 'Export' button. This allows you to more easily determine the area of objects you want to export.
