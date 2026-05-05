@@ -3,9 +3,9 @@
 Routes
 ======
 
-A route is a collection of points that can be :ref:`shown as a curve on the map <sec-routes-load>`. A route can have possible additional information (like photo's and a description) that can be shown in the :ref:`route details screen <sec-route-details>`.
+A route is a collection of points that can be :ref:`shown as a curve on the map <sec-routes-load>`. A route can have possible additional information, like photo's, description and a height profile. This additional route information can be shown in the :ref:`route details screen <sec-route-details>`.
 
-In Topo GPS you can :ref:`import <sec-routes-import>`, :ref:`plan <sec-route-plan>`, :ref:`generate <sec-route-generate>`, :ref:`record <sec-route-record>`, and :ref:`export <sec-routes-export>` routes. This can all be done via the :ref:`routes pop-up <sec-routes-popup>`. You can open the routes pop-up by either tapping the :ref:`route button <ss-route-button>` on the dashboard or by tapping :ref:`Menu <sec-menu>` > Routes.
+In Topo GPS you can :ref:`import routes <sec-routes-import>`, :ref:`plan routes <sec-route-plan>`, :ref:`generate routes <sec-route-generate>`, :ref:`record routes <sec-route-record>`, and :ref:`export routes <sec-routes-export>`. This can all be done via the :ref:`routes pop-up <sec-routes-popup>`. You can open the routes pop-up by either tapping the :ref:`route button <ss-route-button>` on the dashboard or by tapping :ref:`Menu <sec-menu>` > Routes.
 
 .. toctree::
    :maxdepth: 2
