@@ -26,3 +26,7 @@ To shorten the route, first press long on the first or the last point of the rou
 If you have shortened the route, the original route is shown on the map with a lighter color. You can correct the shortening by moving the first or last route point again.
 
 If you are ready shortening the route you can press 'Save' to save the shortened route as a new route.
+
+Shortening a route can be useful in the following situations:
+- If you think the route is too long and you want to start or end the route at a different location. 
+- If you want to keep the start and or end location secret. For example, the start location of a recorded route could point to your home. If you shorten the route slightly, nobody will discover where you really started.
