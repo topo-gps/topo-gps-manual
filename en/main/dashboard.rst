@@ -164,8 +164,8 @@ An example of the coordinates panel is displayed below:
    
    *The dashboard with the coordinates panel.*
 
-If the coordinates panel is loaded, a cross appears in the middle of the map,
-as is illustrated below:
+If the coordinates panel is loaded, a cross appears in the middle of the map. This
+is illustrated below:
 
 .. figure:: ../_static/map-coordinates-panel1.jpg
    :height: 568px
@@ -174,7 +174,7 @@ as is illustrated below:
 
    *The map with the coordinates panel.*
 
-The coordinates that are displayed on the coordinates panel are the coordinates of the point in the middle of the cross. In the example above the coordinates are displayed in WGS84 degree minutes seconds format. Below you can read how to change this format.
+The coordinates that are displayed on the coordinates panel are the coordinates of the point in the middle of the cross. In the example above the coordinates are displayed in WGS84 degree minutes seconds format. Below you can read how to change this format. To remove the cross from the map, you have to slide the panel in the dashboard to the right.
 
 By :ref:`moving the map <ss-modifying-map-screen>` you can position the middle of the cross to the point of which
 you want to determine the coordinates. To quickly determine the coordinates of your current position,
