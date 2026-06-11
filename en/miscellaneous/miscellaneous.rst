@@ -12,4 +12,5 @@ Miscellaneous
    voice_commands
    control_panel
    key_bindings
+   apple_watch
    </APPLE>
