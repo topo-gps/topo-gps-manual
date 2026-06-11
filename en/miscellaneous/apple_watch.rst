@@ -45,21 +45,21 @@ Recommended settings
 For the best Topo GPS experience on your Apple Watch we would suggest you to set the following options.
 
 Return to clock
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
 - Go to: Apple watch > Settings > General > Return to clock
 - Choose Topo GPS and set 'Return to clock' to customized and choose: 'After 1 hour'. 
 
 Advantag: This allows Topo GPS to stay active as the main screen, and then you do not have to tap the Topo GPS icon everytime you want to see where you are at your route. You just turn your wrist and Topo GPS appears. Highly recommended.
 
 Wake duration
-˜˜˜˜˜˜˜˜˜˜˜˜˜
+ˆˆˆˆˆˆˆˆˆˆˆˆˆ
 - Go to the Apple Watch Setting > Display and Brightness. 
 - Scroll to bottom and set Wake duration" to "Wake for 70 seconds". 
 
 Advantage: If Topo GPS becomes active the screen stays active for about 70 seconds. In many cases of navigation that is useful, because 15 seconds might be too short.
 
 Background location duration
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
 - Open the Topo GPS watch app
 - Go to Menu > Settings
 - Scroll down to the section 'Background location duration'.  
@@ -68,7 +68,7 @@ Background location duration
 Advantage: This leaves the GNSS chip running when Topo GPS is in the background for at most 10 minutes. This will increase the battery consumption, but the great advantage is that it does not take time to find your current position. Your position is immediately shown at the right place if you turn your wrist. You should make sure that you look at Topo GPS at least every 10 minutes. If the gap is longer, this is not a problem, but then it will take some time to find your current position.
 
 Notifications
-˜˜˜˜˜˜˜˜˜˜˜˜˜
+ˆˆˆˆˆˆˆˆˆˆˆˆˆ
 - Open the Topo GPS watch app
 - Go to Menu > Setting
 - Scroll down to the section 'Notifications'. 
@@ -77,7 +77,7 @@ Notifications
 Advantage: If you (accidentally) leave a route that you are currently following, a warning notification will be send to your watch. It is important to have 'Background location' duration set to 10 minutes to be able to use this.
 
 Watch complication
-˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
 - Go back to the main clock of the Apple Watch.
 - Pess long on the main clock of the watch.
 - Swipe to the right to the section 'complications'. 
