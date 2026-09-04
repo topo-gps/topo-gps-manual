@@ -1,5 +1,6 @@
-.._sec_devices:
+.. _sec-devices:
 
 Devices
-#######
+=======
+
 
