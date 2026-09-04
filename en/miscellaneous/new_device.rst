@@ -1,3 +1,5 @@
+.. _sec-new-device:
+
 Transferring to a new device
 ============================
 
