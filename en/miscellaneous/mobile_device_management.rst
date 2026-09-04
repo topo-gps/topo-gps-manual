@@ -6,14 +6,9 @@ If you are managing multiple devices via a mobile device management (MDM) system
 
 The apps installed via MDM will initially not have access to any of the maps.
 
-We can send you a MDM configuration xml, which contains a field for a secret license key that we can generate for you. 
+You can :ref:`create a free account in the Topo GPS MDM Admin console <https://www.topo-gps.com/mdm/admin/signup>`. Here a License Key and and Organization Identifier will be generated for you that you can enter in your MDM system. 
 
-We can set the accessible maps according to your wishes.
+Your users running the managed Topo GPS app will automatically get access to the open data maps.
 
-Your users running the managed Topo GPS app will automatically get access to the accessible maps.
+You can try the maps for free for 14 days. If you wish to continue, you need to purchase a subscription in the Topo GPS MDM Admin console.
 
-If you contact us we can make a quotation for you and setup things according to your wishes.
-Pricing is per device per map and the same as for normal customers. We only sell volumes of 50 licenses or more at a time.
-If everything is working as it should we will send you an invoice. If more devices will be added in the future, additional licenses should be bought later.
-
-If you are interested or if you need more information, you can contact us by e-mail (support@topo-gps.com). 
