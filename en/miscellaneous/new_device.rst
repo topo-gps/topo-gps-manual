@@ -38,7 +38,7 @@ A country specific Topo GPS app has a different icon from the universal Topo GPS
 
 If you have changed your Google Play account you cannot retrieve the earlier purchases. It is not possible to transfer purchase from one Google Play account to another. If you need to change an e-mail adress connected to an account, make sure that you only change the e-mail address of that account, and not create a new Google Play account.
 
-Unlike on Apple, on Google it is not possible to share your purchases with family members.
+Unlike on Apple, on Android it is not possible to share your purchases with family members.
 
 Routes and points
 ~~~~~~~~~~~~~~~~~
