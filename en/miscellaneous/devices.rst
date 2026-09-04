@@ -10,7 +10,7 @@ To install Topo GPS on an iPhone or iPad, go to the `AppStore <https://apps.appl
 
 Apple watch
 -----------
-Topo GPS is available for Apple Watch. If you have installed the companion iPhone app from the AppStore <https://apps.apple.com/app/id578960575>`_, you can install Topo GPS on your Apple watch from the Apple Watch app on your iPhone. <APPLE>You can find more details about Topo GPS on the Apple Watch :ref:`here <sec-apple-watch>`.</APPLE>
+Topo GPS is available for Apple Watch. If you have installed the companion iPhone app from the `AppStore <https://apps.apple.com/app/id578960575>`_, you can install Topo GPS on your Apple watch from the Apple Watch app on your iPhone. <APPLE>You can find more details about Topo GPS on the Apple Watch :ref:`here <sec-apple-watch>`.</APPLE>
 
 Macbook / MacOS
 ---------------
@@ -33,7 +33,7 @@ Topo GPS does not run on a Windows PC. It is however possible to install an Andr
 
 An example of such an Android emulator is `Bluestacks <https://www.bluestacks.com/>`_.
 
-Another possibility is to create a virtual device with Google Play using `Android Studio <https://developer.android.com/studio>`. 
+Another possibility is to create a virtual device with Google Play using `Android Studio <https://developer.android.com/studio>`_. 
 
 Android wear / Android watch
 ----------------------------
