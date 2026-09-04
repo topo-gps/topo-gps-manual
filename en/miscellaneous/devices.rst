@@ -2,11 +2,11 @@
 
 Devices
 =======
-Topo GPS is available for Apple and Android systems. 
+Topo GPS is available for Apple and Android devices. 
 
 iPhone/iPad
 -----------
-Topo GPS is available for iPhone and iPad from the AppStore.
+To install Topo GPS on an iPhone or iPad, go to the :ref:`AppStore <https://apps.apple.com/app/id578960575>`.
 
 Apple watch
 -----------
