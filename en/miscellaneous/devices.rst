@@ -2,5 +2,47 @@
 
 Devices
 =======
+Topo GPS is available for Apple and Android systems. 
 
+iPhone/iPad
+-----------
+Topo GPS is available for iPhone and iPad from the AppStore.
+
+Apple watch
+-----------
+Topo GPS is available for Apple Watch. If you have installed the companion iPhone app from the AppStore, you can install Topo GPS on your watch from the Apple Watch app on your iPhone.
+
+Macbook / MacOS
+---------------
+Topo GPS is specially optimized for MacOS, and available in the Mac AppStore.
+There is synchronization of purchases and routes and points between your Mac and your iPhone and iPad.
+
+Android smartphone/tablet
+-------------------------
+Topo GPS runs on all Android devices that have a recent enough version of Android. You need to have Google Play installed. Without Google Play it is not possible to use Topo GPS.
+
+Chromebook
+----------
+A chromebook is a laptop that runs ChromeOS. Topo GPS can be installed on such system from Google Play.
+
+Windows PC
+----------
+Topo GPS does not run on a Windows PC. It is however possible to install an Android emulator that has Google Play installed. You can run Google Play in such an emulator, and install Topo GPS in the emulator. This is of course not ideal, but maybe sufficient.
+
+Android wear / Android watch
+----------------------------
+Currently, Topo GPS is not available for Android watches. 
+
+Garmin device
+-------------
+You cannot run Topo GPS on a Garmin device. However, it is possible to create routes in Topo GPS and export them as gpx to Garmin Connect. Then you can use the route on your Garmin device.
+Make sure that in the export pop-up you tap 'Settings' and there enable 'Join track segments'.
+
+Apple Carplay
+-------------
+Topo GPS is not available for Apple Carplay. Topo GPS is not optimized for Car Navigation.
+
+Android auto
+------------
+Topo GPS is not available for Android Auto. Topo GPS is not optimized for Car Navigation.
 
