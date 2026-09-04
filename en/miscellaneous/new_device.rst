@@ -10,7 +10,11 @@ Transferring from Apple to Apple
 Purchases
 ~~~~~~~~~
 The purchase are connected to your Apple account and are accessible on all your devices that use the same Apple account. Ensure that you are logged in into the AppStore with the correct Apple account. It might be necessary to go to Menu > Maps > More maps and tap 'Restore previous purchases` to retrieve the earlier purchases. 
+
+Most maps (except France, Great Britain and Belgium) are also available through family sharing (Family Library) with your family members. If family sharing is enabled, a family member automatically get access to the purchased maps. The family member might need to go to Menu > Maps > More maps > Restore purchases to retrieve the maps.
+
 If you have bought partial maps, you need to enable in the settings app: Apple account > iCloud > Apps > Topo GPS on both your old and your new device.
+
 
 If you change your Apple account you cannot transfer your purchases. It is however possible to link accounts via Apple family sharing. Some maps are eligible for family sharing, and they can then still be made accessible via Menu > Maps > More maps > Restore previous purchases.
 
@@ -33,6 +37,8 @@ In the past we had different country specific Topo GPS apps. If you use one of t
 A country specific Topo GPS app has a different icon from the universal Topo GPS app. If you have installed the univeral app already, you could also go in the universal Topo GPS app to Menu > Maps > More maps > More > Restore earlier purchases.
 
 If you have changed your Google Play account you cannot retrieve the earlier purchases. It is not possible to transfer purchase from one Google Play account to another. If you need to change an e-mail adress connected to an account, make sure that you only change the e-mail address of that account, and not create a new Google Play account.
+
+Unlike on Apple, on Google it is not possible to share your purchases with family members.
 
 Routes and points
 ~~~~~~~~~~~~~~~~~
