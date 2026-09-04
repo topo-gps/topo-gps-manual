@@ -6,6 +6,7 @@ Miscellaneous
    :maxdepth: 2
    
    new_device
+   devices
    payment_methods
    mobile_device_management
    <APPLE>
