@@ -10,7 +10,7 @@ To install Topo GPS on an iPhone or iPad, go to the `AppStore <https://apps.appl
 
 Apple watch
 -----------
-Topo GPS is available for Apple Watch. If you have installed the companion iPhone app from the AppStore <https://apps.apple.com/app/id578960575>`_, you can install Topo GPS on your Apple watch from the Apple Watch app on your iPhone.
+Topo GPS is available for Apple Watch. If you have installed the companion iPhone app from the AppStore <https://apps.apple.com/app/id578960575>`_, you can install Topo GPS on your Apple watch from the Apple Watch app on your iPhone. <APPLE>You can read more in the section :ref:
 
 Macbook / MacOS
 ---------------
