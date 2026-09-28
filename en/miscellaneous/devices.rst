@@ -46,9 +46,8 @@ Make sure that in the export pop-up you tap 'Settings' and there enable 'Join tr
 
 Apple Carplay
 -------------
-Topo GPS is not available for Apple Carplay. Topo GPS is not optimized for Car Navigation.
+Topo GPS is not available for Apple Carplay. Topo GPS is not optimized for Car Navigation. The problem for us is that if we would make Topo GPS available for CarPlay, we are subjected to all kinds of driving safety requirements, making the app review process much more complicated.
 
 Android auto
 ------------
-Topo GPS is not available for Android Auto. Topo GPS is not optimized for Car Navigation.
-
+Topo GPS is not available for Android Auto. Topo GPS is not optimized for Car Navigation. The problem for us is that if we would make Topo GPS available for Android Auto, we are subjected to all kinds of driving safety requirements, making the app review process much more complicated.
