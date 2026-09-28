@@ -11,7 +11,7 @@ Purchases
 ~~~~~~~~~
 The purchase are connected to your Apple account and are accessible on all your devices that use the same Apple account. Ensure that you are logged in into the AppStore with the correct Apple account. It might be necessary to go to Menu > Maps > More maps and tap 'Restore previous purchases` to retrieve the earlier purchases. 
 
-Most maps (except France, Great Britain and Belgium) are also available through family sharing (Family Library) with your family members. If family sharing is enabled, a family member automatically get access to the purchased maps. The family member might need to go to Menu > Maps > More maps > Restore purchases to retrieve the maps.
+Most maps (except France, Great Britain and Belgium) are also available through family sharing (Family Library) with your family members. If family sharing is enabled, a family member automatically get access to the purchased maps. The family member might need to go in Topo GPS to Menu > Maps > More maps > Restore purchases to retrieve access to the maps. Make sure that in the settings of Apple family sharing, sharing of in-app purchases is enabled.
 
 If you have bought partial maps, you need to enable in the settings app: Apple account > iCloud > Apps > Topo GPS on both your old and your new device.
 
