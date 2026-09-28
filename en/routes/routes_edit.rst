@@ -17,8 +17,6 @@ In the edit pop-up you can choose between the following options:
 - *Edit settings*. You can alter the settings of a route. You can determine whether to enable showing the waypoints of a route. Furthermore you can enable 'Reverse direction', this reverses the direction of a route.
 - *Edit waypoints*. The waypoints belonging to the route will be shown in a special screen. Here you can add waypoints, drag waypoints, and remove waypoints belonging to a route.
 - *Edit track*. The route will be loaded into the route planner where you can modify the route track. Then you could :ref:`extend the route <sec-route-extend>`, :ref:`shorten the route <sec-route-shorten>` or :ref:`modify the route track in a general way <sec-route-edit-track>`.
-<APPLE>
 - *Split route*. This opens the split route screen, where you can :ref:`split the route into parts <sec-route-split>`.
-</APPLE>
 - *Edit route type*. A screen will appear in which you can change the route type. It is always useful to make sure that your routes have the correct route type.
 - *Edit text*. A screen will appear in which you can edit the title, author details and description.
